@@ -1,0 +1,3 @@
+Translation / speech backends: {'translator': 'deep-translator (fallback)', 'speech': 'gTTS (fallback)'}
+ * Serving Flask app 'app'
+ * Debug mode: off

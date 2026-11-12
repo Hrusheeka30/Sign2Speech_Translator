@@ -1,0 +1,2117 @@
+{
+  "root": "C:\\Users\\hrush\\OneDrive\\Desktop\\AiSignToSpeech\\signlang_dataset",
+  "generated_at": "2026-11-08 20:08:03",
+  "scan_seconds": 38.3,
+  "num_categories": 4,
+  "num_classes": 29,
+  "total_videos": 503,
+  "total_size_bytes": 6788837876,
+  "total_size_human": "6.3 GB",
+  "num_directories": 35,
+  "empty_directories": [],
+  "extensions": {
+    ".mov": 430,
+    ".mp4": 73
+  },
+  "class_count_min": 14,
+  "class_count_max": 22,
+  "class_count_mean": 17.34,
+  "class_count_median": 14,
+  "imbalance_ratio_max_over_min": 1.57,
+  "unreadable_count": 0,
+  "unreadable": [],
+  "duplicate_groups": 0,
+  "duplicate_files_total": 0,
+  "duplicate_groups_detail": [],
+  "duplicate_filename_count": 29,
+  "duplicate_filename_across_classes": 29,
+  "duplicate_filename_detail": [
+    {
+      "filename": "mvi_0037.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::50. Alright"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "15fc2a00b08d9927fa9e1c2078e05a0b",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_0037.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "69721f6d202c07356451b1a689a59d09",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0037.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0038.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::50. Alright"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "fe54a66a48750cbdc94b821982d29150",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_0038.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "9ec257505b6d383d578d54a3a9943189",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0038.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0039.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::50. Alright"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "db447296409521b0b9dfbe44ca799b1b",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_0039.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "5f1a4650a7d228e18ddc503e85101167",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0039.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0040.mov",
+      "classes": [
+        "Greetings::49. How are you",
+        "Greetings::50. Alright"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "46868af9014cc6e7cfc3fafcfffc58a7",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "49. How are you",
+              "subfolder": "",
+              "filename": "MVI_0040.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "9ca4d47a924bded9c2f07986d30c5344",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0040.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0042.mov",
+      "classes": [
+        "Greetings::49. How are you",
+        "Greetings::51. Good Morning"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "60af3cc08f7f9d396b583bd4b3d5027d",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "49. How are you",
+              "subfolder": "",
+              "filename": "MVI_0042.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "039331f02f1a9d0570630509b62ef7e9",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0042.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0043.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::51. Good Morning"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "b354d35ba0ea448a275f1c10bbadcc18",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0043.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "b8a97ebb29a10866b71cdc1660648280",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0043.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0044.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::51. Good Morning"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "f870f7dcb74e1da8281401aa2175e30f",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0044.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "04c3e74fadc7d1d09582571ebfbf4bee",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0044.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0045.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::51. Good Morning"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "815814545f4506acb83d02d6b3323f73",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_0045.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "232d44296d81728d44a8044f8fa9c14b",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0045.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0046.mov",
+      "classes": [
+        "Greetings::51. Good Morning",
+        "Greetings::52. Good afternoon"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "b18514cbbf7f7fd69980657a4fc6ae45",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0046.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "7b7780cbc58b110aa255dee78c175b65",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "52. Good afternoon",
+              "subfolder": "",
+              "filename": "MVI_0046.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0047.mov",
+      "classes": [
+        "Greetings::51. Good Morning",
+        "Greetings::52. Good afternoon"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "b9449a481c8d5621d049b76d81391f27",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0047.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "a663068c6b3e3719a1483bcab7d1c9c6",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "52. Good afternoon",
+              "subfolder": "",
+              "filename": "MVI_0047.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0048.mov",
+      "classes": [
+        "Greetings::51. Good Morning",
+        "Greetings::52. Good afternoon"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "f9ec3e05f20ae8d7fbfffe0d9bd4773e",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_0048.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "675f0a39c60f6a79a6e28b34accd2abb",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "52. Good afternoon",
+              "subfolder": "",
+              "filename": "MVI_0048.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0055.mov",
+      "classes": [
+        "Greetings::53. Good evening",
+        "Greetings::54. Good night"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "5143d85529c8f2036956648803d4a610",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "53. Good evening",
+              "subfolder": "",
+              "filename": "MVI_0055.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "ba4a4aca9dc80980f4227eaecf5a8a27",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "54. Good night",
+              "subfolder": "",
+              "filename": "MVI_0055.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0058.mov",
+      "classes": [
+        "Greetings::54. Good night",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "ad2d72dc3048b76b8a35e9197e5d5f14",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "54. Good night",
+              "subfolder": "",
+              "filename": "MVI_0058.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "7729a814e64d70b1ce693b656b3b5a49",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_0058.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0059.mov",
+      "classes": [
+        "Greetings::54. Good night",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "897f5fcd73100b7d96468904a8397bb2",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "54. Good night",
+              "subfolder": "",
+              "filename": "MVI_0059.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "a6a5bb742804e9366df02fbde70de802",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_0059.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0061.mov",
+      "classes": [
+        "Greetings::55. Thank you",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "2e8ad672a535af32114e06d4229ba8b8",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_0061.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "33baa168585a251b87a1ab9545d697e0",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_0061.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0062.mov",
+      "classes": [
+        "Greetings::55. Thank you",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "8d2afa109f624134ad72ca86a3093c63",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_0062.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "f4432a0b7417c8ff9e20ed53d989aa82",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_0062.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_0063.mov",
+      "classes": [
+        "Greetings::55. Thank you",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "28e682ece9b3981cfb4e35b2b6b86e4c",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_0063.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "df476a9c250460895126939eacfda28f",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_0063.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9954.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "17f794f1dd1b0694b65826dc2f5fe6ac",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_9954.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "d0084a5c67a568c20fed5d0a5f4d4dd3",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9954.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9955.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "58ec772a0d43c258f3f24f9dd37cafbe",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_9955.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "4bee974b04da52159f586e86b0b027d1",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9955.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9982.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::54. Good night"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "ee5fd9af48f144344aabc2889bcfe0c7",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_9982.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "4f2a13c82cfc44790c96913bdb97a7a8",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "54. Good night",
+              "subfolder": "",
+              "filename": "MVI_9982.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9983.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::54. Good night"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "e5659b7a2b4eb7bd0a29e963480442cd",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_9983.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "5decab2354409793f9537770b6df9a72",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "54. Good night",
+              "subfolder": "",
+              "filename": "MVI_9983.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9984.mov",
+      "classes": [
+        "Greetings::48. Hello",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "026b5cd181255a745b0a00b2991032fe",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "48. Hello",
+              "subfolder": "",
+              "filename": "MVI_9984.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "2f68b12e1f385d2046b158f8206d3475",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_9984.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9985.mov",
+      "classes": [
+        "Greetings::49. How are you",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "ac52582d49d86acedde71358690a273f",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "49. How are you",
+              "subfolder": "",
+              "filename": "MVI_9985.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "f1e88efed288a6254a6a3c2bd6f19acc",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_9985.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9986.mov",
+      "classes": [
+        "Greetings::49. How are you",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "0abf113f122a2d4452f949b8e17a0bd9",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "49. How are you",
+              "subfolder": "",
+              "filename": "MVI_9986.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "11ea861989b14ecee990ab6e0ed13471",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_9986.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9987.mov",
+      "classes": [
+        "Greetings::49. How are you",
+        "Greetings::55. Thank you"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "ebf664e0dfcef11ed8a439487b671367",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "49. How are you",
+              "subfolder": "",
+              "filename": "MVI_9987.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "8cf064a73c970ea3b5907be3e2b7f6ef",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "55. Thank you",
+              "subfolder": "",
+              "filename": "MVI_9987.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9988.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "43a67ae467d4b44fddfb2454ef8fcd5a",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_9988.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "7b5c082d2d4cfbfa0d3ef0fe42e59808",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9988.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9989.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "3672ebbf77ab69627124b317e6b325ed",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_9989.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "04e4da195c38ea5151593cd06d8426d6",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9989.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9990.mov",
+      "classes": [
+        "Greetings::50. Alright",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "e9ab97dbb15f7b31893150d67f6cfcff",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "50. Alright",
+              "subfolder": "",
+              "filename": "MVI_9990.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "591d0e8cdbdf913df3aff0a645a1bde8",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9990.MOV"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "mvi_9991.mov",
+      "classes": [
+        "Greetings::51. Good Morning",
+        "Greetings::56. Pleased"
+      ],
+      "byte_identical_somewhere": false,
+      "hash_groups": [
+        {
+          "md5": "f3096dae3df0b65cece31addb9b73e11",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "51. Good Morning",
+              "subfolder": "",
+              "filename": "MVI_9991.MOV"
+            }
+          ]
+        },
+        {
+          "md5": "c2055fc40e7acee81dc844af57109c89",
+          "files": [
+            {
+              "category": "Greetings",
+              "class": "56. Pleased",
+              "subfolder": "",
+              "filename": "MVI_9991.MOV"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "resolutions": {
+    "1920x1080": 503
+  },
+  "fps_values": {
+    "25.0": 503
+  },
+  "duration_sec": {
+    "min": 1.64,
+    "max": 4.36,
+    "mean": 2.58,
+    "total_hours": 0.36
+  },
+  "categories": {
+    "Places": {
+      "classes": 5,
+      "videos": 103
+    },
+    "Home": {
+      "classes": 7,
+      "videos": 98
+    },
+    "Greetings": {
+      "classes": 9,
+      "videos": 190
+    },
+    "Days_and_Time": {
+      "classes": 8,
+      "videos": 112
+    }
+  },
+  "per_class": [
+    {
+      "category": "Places",
+      "class": "18. City",
+      "count": 20,
+      "total_size": 304659892,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.16,
+        2.28,
+        2.36,
+        2.4,
+        2.4,
+        2.52,
+        2.52,
+        2.56,
+        2.56,
+        2.6,
+        2.72,
+        2.72,
+        2.8,
+        2.8,
+        2.8,
+        2.88,
+        3.24,
+        3.36,
+        3.6,
+        3.68
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Places",
+      "class": "19. House",
+      "count": 21,
+      "total_size": 276910676,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.8,
+        1.92,
+        1.92,
+        2.12,
+        2.16,
+        2.16,
+        2.24,
+        2.28,
+        2.28,
+        2.32,
+        2.32,
+        2.32,
+        2.44,
+        2.52,
+        2.56,
+        2.6,
+        2.64,
+        2.68,
+        2.96,
+        3.0,
+        3.12
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Places",
+      "class": "20. Street or Road",
+      "count": 20,
+      "total_size": 257987532,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.88,
+        1.96,
+        2.0,
+        2.04,
+        2.16,
+        2.2,
+        2.2,
+        2.28,
+        2.28,
+        2.32,
+        2.32,
+        2.36,
+        2.4,
+        2.44,
+        2.48,
+        2.52,
+        2.52,
+        2.52,
+        2.92,
+        3.0
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Places",
+      "class": "21. Train Station",
+      "count": 22,
+      "total_size": 314032584,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.96,
+        2.04,
+        2.16,
+        2.2,
+        2.2,
+        2.24,
+        2.24,
+        2.4,
+        2.4,
+        2.44,
+        2.52,
+        2.52,
+        2.56,
+        2.6,
+        2.68,
+        2.76,
+        2.76,
+        3.08,
+        3.12,
+        3.2,
+        3.36,
+        3.4
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Places",
+      "class": "22. Restaurant",
+      "count": 20,
+      "total_size": 259953248,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.8,
+        1.88,
+        1.96,
+        2.04,
+        2.08,
+        2.16,
+        2.2,
+        2.32,
+        2.36,
+        2.36,
+        2.36,
+        2.44,
+        2.44,
+        2.44,
+        2.56,
+        2.6,
+        2.6,
+        2.72,
+        2.8,
+        2.84
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "24. Table",
+      "count": 14,
+      "total_size": 144031420,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.88,
+        1.88,
+        1.96,
+        2.0,
+        2.0,
+        2.04,
+        2.2,
+        2.2,
+        2.52,
+        2.56,
+        2.56,
+        2.56,
+        2.56,
+        2.76
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "25. Chair",
+      "count": 14,
+      "total_size": 136178837,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.68,
+        1.76,
+        1.88,
+        1.96,
+        2.0,
+        2.04,
+        2.08,
+        2.08,
+        2.16,
+        2.2,
+        2.36,
+        2.4,
+        2.44,
+        2.64
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "26. Bed",
+      "count": 14,
+      "total_size": 166997790,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        2.16,
+        2.2,
+        2.32,
+        2.32,
+        2.36,
+        2.56,
+        2.56,
+        2.64,
+        2.64,
+        2.72,
+        2.8,
+        2.88,
+        2.92,
+        3.28
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "27. Dream",
+      "count": 14,
+      "total_size": 210838812,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        2.6,
+        2.84,
+        2.88,
+        2.96,
+        3.04,
+        3.08,
+        3.12,
+        3.24,
+        3.24,
+        3.4,
+        3.68,
+        3.72,
+        3.8,
+        4.28
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "28. Window",
+      "count": 14,
+      "total_size": 213169840,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        2.64,
+        2.68,
+        2.8,
+        2.88,
+        2.88,
+        3.2,
+        3.24,
+        3.36,
+        3.4,
+        3.48,
+        3.96,
+        4.0,
+        4.04,
+        4.16
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "29. Door",
+      "count": 14,
+      "total_size": 158294206,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.72,
+        1.96,
+        2.0,
+        2.0,
+        2.04,
+        2.28,
+        2.28,
+        2.72,
+        2.76,
+        2.76,
+        2.96,
+        3.0,
+        3.04,
+        3.56
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Home",
+      "class": "30. Bedroom",
+      "count": 14,
+      "total_size": 232494922,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        2.56,
+        2.88,
+        2.92,
+        3.24,
+        3.32,
+        3.48,
+        3.76,
+        3.88,
+        4.08,
+        4.08,
+        4.16,
+        4.32,
+        4.32,
+        4.36
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "48. Hello",
+      "count": 21,
+      "total_size": 286524932,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.88,
+        1.96,
+        1.96,
+        2.0,
+        2.04,
+        2.08,
+        2.08,
+        2.12,
+        2.12,
+        2.24,
+        2.44,
+        2.52,
+        2.6,
+        2.72,
+        2.76,
+        2.76,
+        2.96,
+        3.04,
+        3.16,
+        3.2,
+        3.36
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "49. How are you",
+      "count": 21,
+      "total_size": 371686900,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.4,
+        2.6,
+        2.64,
+        2.68,
+        2.68,
+        2.72,
+        2.72,
+        2.8,
+        2.84,
+        2.84,
+        3.24,
+        3.32,
+        3.44,
+        3.56,
+        3.68,
+        3.68,
+        3.76,
+        3.8,
+        3.8,
+        3.84,
+        4.0
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "50. Alright",
+      "count": 21,
+      "total_size": 313239512,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.04,
+        2.12,
+        2.12,
+        2.16,
+        2.16,
+        2.2,
+        2.24,
+        2.32,
+        2.4,
+        2.52,
+        2.52,
+        2.88,
+        2.92,
+        3.04,
+        3.12,
+        3.16,
+        3.2,
+        3.28,
+        3.36,
+        3.44,
+        3.48
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "51. Good Morning",
+      "count": 21,
+      "total_size": 309413052,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.64,
+        1.92,
+        2.12,
+        2.24,
+        2.24,
+        2.32,
+        2.32,
+        2.36,
+        2.48,
+        2.52,
+        2.56,
+        2.64,
+        2.64,
+        2.8,
+        3.0,
+        3.2,
+        3.28,
+        3.32,
+        3.4,
+        3.4,
+        3.6
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "52. Good afternoon",
+      "count": 22,
+      "total_size": 328840980,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.88,
+        2.04,
+        2.2,
+        2.2,
+        2.2,
+        2.24,
+        2.28,
+        2.4,
+        2.4,
+        2.52,
+        2.52,
+        2.52,
+        2.68,
+        2.76,
+        2.92,
+        2.96,
+        3.0,
+        3.48,
+        3.48,
+        3.48,
+        3.6,
+        3.64
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "53. Good evening",
+      "count": 21,
+      "total_size": 325485268,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.12,
+        2.16,
+        2.2,
+        2.24,
+        2.28,
+        2.32,
+        2.4,
+        2.52,
+        2.56,
+        2.68,
+        2.84,
+        2.96,
+        2.96,
+        3.0,
+        3.16,
+        3.16,
+        3.28,
+        3.36,
+        3.4,
+        3.56,
+        3.8
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "54. Good night",
+      "count": 21,
+      "total_size": 323360752,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.2,
+        2.24,
+        2.24,
+        2.24,
+        2.32,
+        2.36,
+        2.4,
+        2.4,
+        2.4,
+        2.48,
+        2.68,
+        2.68,
+        2.88,
+        3.08,
+        3.2,
+        3.28,
+        3.36,
+        3.36,
+        3.64,
+        3.64,
+        3.72
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "55. Thank you",
+      "count": 21,
+      "total_size": 296884148,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        2.08,
+        2.12,
+        2.12,
+        2.16,
+        2.24,
+        2.24,
+        2.24,
+        2.24,
+        2.28,
+        2.28,
+        2.4,
+        2.44,
+        2.48,
+        2.52,
+        2.68,
+        3.0,
+        3.16,
+        3.16,
+        3.24,
+        3.28,
+        3.44
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Greetings",
+      "class": "56. Pleased",
+      "count": 21,
+      "total_size": 291047592,
+      "extensions": [
+        "MOV"
+      ],
+      "durations": [
+        1.76,
+        1.84,
+        1.92,
+        2.04,
+        2.08,
+        2.12,
+        2.16,
+        2.2,
+        2.24,
+        2.24,
+        2.48,
+        2.56,
+        2.6,
+        2.68,
+        2.8,
+        2.92,
+        3.04,
+        3.12,
+        3.16,
+        3.24,
+        3.48
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "66. Sunday",
+      "count": 14,
+      "total_size": 171295130,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.88,
+        2.0,
+        2.04,
+        2.08,
+        2.28,
+        2.28,
+        2.28,
+        2.4,
+        2.44,
+        2.76,
+        2.84,
+        2.84,
+        3.0,
+        3.12
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "67. Monday",
+      "count": 14,
+      "total_size": 158117984,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.88,
+        1.88,
+        2.04,
+        2.08,
+        2.12,
+        2.16,
+        2.16,
+        2.16,
+        2.28,
+        2.32,
+        2.36,
+        2.4,
+        2.52,
+        2.8
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "68. Tuesday",
+      "count": 14,
+      "total_size": 163638856,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.96,
+        2.0,
+        2.04,
+        2.04,
+        2.08,
+        2.16,
+        2.2,
+        2.24,
+        2.36,
+        2.44,
+        2.48,
+        2.48,
+        2.68,
+        2.8
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "69. Wednesday",
+      "count": 14,
+      "total_size": 152864729,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.84,
+        1.96,
+        2.0,
+        2.04,
+        2.04,
+        2.04,
+        2.16,
+        2.16,
+        2.16,
+        2.24,
+        2.24,
+        2.32,
+        2.44,
+        2.44
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "70. Thursday",
+      "count": 14,
+      "total_size": 161602340,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.92,
+        1.96,
+        2.0,
+        2.08,
+        2.12,
+        2.12,
+        2.24,
+        2.32,
+        2.4,
+        2.48,
+        2.48,
+        2.52,
+        2.64,
+        2.72
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "71. Friday",
+      "count": 14,
+      "total_size": 156251135,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.84,
+        1.88,
+        1.92,
+        1.96,
+        2.08,
+        2.16,
+        2.16,
+        2.2,
+        2.24,
+        2.28,
+        2.44,
+        2.52,
+        2.6,
+        3.12
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "72. Saturday",
+      "count": 14,
+      "total_size": 158700866,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.76,
+        1.88,
+        1.96,
+        2.0,
+        2.08,
+        2.12,
+        2.2,
+        2.28,
+        2.32,
+        2.4,
+        2.44,
+        2.52,
+        2.68,
+        2.72
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    },
+    {
+      "category": "Days_and_Time",
+      "class": "73. Today",
+      "count": 14,
+      "total_size": 144333941,
+      "extensions": [
+        "MOV",
+        "MP4"
+      ],
+      "durations": [
+        1.64,
+        1.64,
+        1.76,
+        1.8,
+        1.84,
+        1.88,
+        1.92,
+        1.92,
+        2.08,
+        2.16,
+        2.4,
+        2.48,
+        2.72,
+        2.76
+      ],
+      "resolutions": [
+        [
+          1920,
+          1080
+        ]
+      ],
+      "fps": [
+        25.0
+      ],
+      "unreadable": 0
+    }
+  ]
+}

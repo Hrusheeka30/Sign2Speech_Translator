@@ -1,0 +1,1669 @@
+rel_path,category,class_name,label_id,split,size_bytes
+Animals\1. Dog\MVI_2978.MOV,Animals,1. Dog,0,test,26820164
+Animals\1. Dog\MVI_2979.MOV,Animals,1. Dog,0,train,17236472
+Animals\1. Dog\MVI_2980.MOV,Animals,1. Dog,0,val,20216044
+Animals\1. Dog\MVI_3002.MOV,Animals,1. Dog,0,train,19912384
+Animals\1. Dog\MVI_3003.MOV,Animals,1. Dog,0,train,20936588
+Animals\1. Dog\MVI_3004.MOV,Animals,1. Dog,0,train,19492596
+Animals\1. Dog\MVI_3028.MOV,Animals,1. Dog,0,train,20347588
+Animals\1. Dog\MVI_3029.MOV,Animals,1. Dog,0,val,21472412
+Animals\1. Dog\MVI_3030.MOV,Animals,1. Dog,0,train,22928692
+Animals\1. Dog\MVI_3059.MOV,Animals,1. Dog,0,train,16280992
+Animals\1. Dog\MVI_3060.MOV,Animals,1. Dog,0,train,18564928
+Animals\1. Dog\MVI_3061.MOV,Animals,1. Dog,0,train,18147568
+Animals\1. Dog\MVI_3085.MOV,Animals,1. Dog,0,train,19524148
+Animals\1. Dog\MVI_3086.MOV,Animals,1. Dog,0,train,18982712
+Animals\1. Dog\MVI_3087.MOV,Animals,1. Dog,0,train,17122628
+Animals\1. Dog\MVI_4146.MOV,Animals,1. Dog,0,train,15155448
+Animals\1. Dog\MVI_4147.MOV,Animals,1. Dog,0,test,14570572
+Animals\1. Dog\MVI_4148.MOV,Animals,1. Dog,0,train,15269588
+Animals\1. Dog\MVI_8560.MP4,Animals,1. Dog,0,val,12705187
+Animals\1. Dog\MVI_8561.MP4,Animals,1. Dog,0,test,10321431
+Animals\2. Cat\MVI_2981.MOV,Animals,2. Cat,1,train,16615420
+Animals\2. Cat\MVI_2982.MOV,Animals,2. Cat,1,train,11949696
+Animals\2. Cat\MVI_2983.MOV,Animals,2. Cat,1,val,18359344
+Animals\2. Cat\MVI_3005.MOV,Animals,2. Cat,1,train,17273988
+Animals\2. Cat\MVI_3006.MOV,Animals,2. Cat,1,val,20298536
+Animals\2. Cat\MVI_3007.MOV,Animals,2. Cat,1,test,16069424
+Animals\2. Cat\MVI_3031.MOV,Animals,2. Cat,1,train,14153444
+Animals\2. Cat\MVI_3032.MOV,Animals,2. Cat,1,val,17896724
+Animals\2. Cat\MVI_3033.MOV,Animals,2. Cat,1,train,20991136
+Animals\2. Cat\MVI_3063.MOV,Animals,2. Cat,1,train,16156276
+Animals\2. Cat\MVI_3064.MOV,Animals,2. Cat,1,test,16820568
+Animals\2. Cat\MVI_3065.MOV,Animals,2. Cat,1,test,17671632
+Animals\2. Cat\MVI_3088.MOV,Animals,2. Cat,1,train,15809300
+Animals\2. Cat\MVI_3089.MOV,Animals,2. Cat,1,train,18116012
+Animals\2. Cat\MVI_3090.MOV,Animals,2. Cat,1,train,17773196
+Animals\2. Cat\MVI_4149.MOV,Animals,2. Cat,1,train,13178120
+Animals\2. Cat\MVI_4150.MOV,Animals,2. Cat,1,train,12633876
+Animals\2. Cat\MVI_4151.MOV,Animals,2. Cat,1,train,10091792
+Animals\2. Cat\MVI_8562.MP4,Animals,2. Cat,1,train,11951123
+Animals\2. Cat\MVI_8563.MP4,Animals,2. Cat,1,train,10452545
+Animals\3. Fish\MVI_2984.MOV,Animals,3. Fish,2,train,16715392
+Animals\3. Fish\MVI_2985.MOV,Animals,3. Fish,2,train,15153168
+Animals\3. Fish\MVI_2986.MOV,Animals,3. Fish,2,train,21412112
+Animals\3. Fish\MVI_3008.MOV,Animals,3. Fish,2,test,25739300
+Animals\3. Fish\MVI_3009.MOV,Animals,3. Fish,2,train,19442196
+Animals\3. Fish\MVI_3010.MOV,Animals,3. Fish,2,train,17460768
+Animals\3. Fish\MVI_3034.MOV,Animals,3. Fish,2,val,16769232
+Animals\3. Fish\MVI_3035.MOV,Animals,3. Fish,2,train,17835308
+Animals\3. Fish\MVI_3036.MOV,Animals,3. Fish,2,train,19159244
+Animals\3. Fish\MVI_3067.MOV,Animals,3. Fish,2,test,18472476
+Animals\3. Fish\MVI_3068.MOV,Animals,3. Fish,2,train,16479592
+Animals\3. Fish\MVI_3069.MOV,Animals,3. Fish,2,train,15231384
+Animals\3. Fish\MVI_3091.MOV,Animals,3. Fish,2,test,19331444
+Animals\3. Fish\MVI_3092.MOV,Animals,3. Fish,2,train,18562620
+Animals\3. Fish\MVI_3093.MOV,Animals,3. Fish,2,train,14957848
+Animals\3. Fish\MVI_4152.MOV,Animals,3. Fish,2,train,14048216
+Animals\3. Fish\MVI_4153.MOV,Animals,3. Fish,2,val,13999040
+Animals\3. Fish\MVI_4154.MOV,Animals,3. Fish,2,train,13274544
+Animals\3. Fish\MVI_8565.MP4,Animals,3. Fish,2,val,13135581
+Animals\3. Fish\MVI_8566.MP4,Animals,3. Fish,2,train,11960325
+Animals\4. Bird\Extra\MVI_3041.MOV,Animals,4. Bird,3,train,21699156
+Animals\4. Bird\Extra\MVI_3042.MOV,Animals,4. Bird,3,train,23031252
+Animals\4. Bird\Extra\MVI_3043.MOV,Animals,4. Bird,3,train,20664316
+Animals\4. Bird\Extra\MVI_3044.MOV,Animals,4. Bird,3,train,20969164
+Animals\4. Bird\Extra\MVI_3045.MOV,Animals,4. Bird,3,train,19645828
+Animals\4. Bird\MVI_2987.MOV,Animals,4. Bird,3,val,17166936
+Animals\4. Bird\MVI_2988.MOV,Animals,4. Bird,3,test,18722456
+Animals\4. Bird\MVI_2989.MOV,Animals,4. Bird,3,train,14088528
+Animals\4. Bird\MVI_3011.MOV,Animals,4. Bird,3,train,15660612
+Animals\4. Bird\MVI_3012.MOV,Animals,4. Bird,3,train,18318808
+Animals\4. Bird\MVI_3013.MOV,Animals,4. Bird,3,test,17887032
+Animals\4. Bird\MVI_3037.MOV,Animals,4. Bird,3,test,19048272
+Animals\4. Bird\MVI_3038.MOV,Animals,4. Bird,3,train,20870328
+Animals\4. Bird\MVI_3040.MOV,Animals,4. Bird,3,train,19263100
+Animals\4. Bird\MVI_3070.MOV,Animals,4. Bird,3,train,18205072
+Animals\4. Bird\MVI_3071.MOV,Animals,4. Bird,3,train,18617672
+Animals\4. Bird\MVI_3072.MOV,Animals,4. Bird,3,train,20381436
+Animals\4. Bird\MVI_3094.MOV,Animals,4. Bird,3,train,21926512
+Animals\4. Bird\MVI_3095.MOV,Animals,4. Bird,3,train,18201568
+Animals\4. Bird\MVI_3096.MOV,Animals,4. Bird,3,test,19613560
+Animals\4. Bird\MVI_4155.MOV,Animals,4. Bird,3,val,13552936
+Animals\4. Bird\MVI_4156.MOV,Animals,4. Bird,3,val,14733720
+Animals\4. Bird\MVI_4157.MOV,Animals,4. Bird,3,train,11896820
+Animals\4. Bird\MVI_8567.MP4,Animals,4. Bird,3,train,11363523
+Animals\4. Bird\MVI_8568.MP4,Animals,4. Bird,3,val,11724409
+Animals\5. Cow\MVI_2990.MOV,Animals,5. Cow,4,train,16150080
+Animals\5. Cow\MVI_2991.MOV,Animals,5. Cow,4,train,14223704
+Animals\5. Cow\MVI_2992.MOV,Animals,5. Cow,4,train,20530416
+Animals\5. Cow\MVI_3015.MOV,Animals,5. Cow,4,train,22151844
+Animals\5. Cow\MVI_3016.MOV,Animals,5. Cow,4,train,22577504
+Animals\5. Cow\MVI_3017.MOV,Animals,5. Cow,4,train,20104224
+Animals\5. Cow\MVI_3046.MOV,Animals,5. Cow,4,train,17377272
+Animals\5. Cow\MVI_3047.MOV,Animals,5. Cow,4,train,24418028
+Animals\5. Cow\MVI_3048.MOV,Animals,5. Cow,4,val,27347052
+Animals\5. Cow\MVI_3049.MOV,Animals,5. Cow,4,test,22303052
+Animals\5. Cow\MVI_3073.MOV,Animals,5. Cow,4,train,19173460
+Animals\5. Cow\MVI_3074.MOV,Animals,5. Cow,4,val,18401416
+Animals\5. Cow\MVI_3075.MOV,Animals,5. Cow,4,train,18451872
+Animals\5. Cow\MVI_3097.MOV,Animals,5. Cow,4,train,17205208
+Animals\5. Cow\MVI_3098.MOV,Animals,5. Cow,4,test,17420568
+Animals\5. Cow\MVI_3099.MOV,Animals,5. Cow,4,train,16937500
+Animals\5. Cow\MVI_4158.MOV,Animals,5. Cow,4,test,12797920
+Animals\5. Cow\MVI_4159.MOV,Animals,5. Cow,4,val,11029172
+Animals\5. Cow\MVI_4160.MOV,Animals,5. Cow,4,train,12661540
+Animals\5. Cow\MVI_8569.MP4,Animals,5. Cow,4,train,12294301
+Animals\5. Cow\MVI_8570.MP4,Animals,5. Cow,4,train,11505088
+Animals\6. Mouse\MVI_2993.MOV,Animals,6. Mouse,5,test,17632376
+Animals\6. Mouse\MVI_2994.MOV,Animals,6. Mouse,5,val,22081776
+Animals\6. Mouse\MVI_2995.MOV,Animals,6. Mouse,5,train,18148904
+Animals\6. Mouse\MVI_3018.MOV,Animals,6. Mouse,5,train,20482220
+Animals\6. Mouse\MVI_3019.MOV,Animals,6. Mouse,5,test,18366164
+Animals\6. Mouse\MVI_3020.MOV,Animals,6. Mouse,5,train,15965584
+Animals\6. Mouse\MVI_3050.MOV,Animals,6. Mouse,5,train,18296072
+Animals\6. Mouse\MVI_3051.MOV,Animals,6. Mouse,5,train,14985356
+Animals\6. Mouse\MVI_3052.MOV,Animals,6. Mouse,5,train,16719772
+Animals\6. Mouse\MVI_3076.MOV,Animals,6. Mouse,5,train,17395548
+Animals\6. Mouse\MVI_3077.MOV,Animals,6. Mouse,5,train,22061700
+Animals\6. Mouse\MVI_3078.MOV,Animals,6. Mouse,5,test,18531244
+Animals\6. Mouse\MVI_3100.MOV,Animals,6. Mouse,5,train,13133812
+Animals\6. Mouse\MVI_3101.MOV,Animals,6. Mouse,5,train,14331372
+Animals\6. Mouse\MVI_3102.MOV,Animals,6. Mouse,5,train,12902800
+Animals\6. Mouse\MVI_4161.MOV,Animals,6. Mouse,5,train,13247208
+Animals\6. Mouse\MVI_4162.MOV,Animals,6. Mouse,5,train,12675184
+Animals\6. Mouse\MVI_4163.MOV,Animals,6. Mouse,5,train,11227196
+Animals\6. Mouse\MVI_8571.MP4,Animals,6. Mouse,5,val,12562740
+Animals\6. Mouse\MVI_8572.MP4,Animals,6. Mouse,5,val,11955699
+Animals\7. Horse\MVI_2996.MOV,Animals,7. Horse,6,val,18269356
+Animals\7. Horse\MVI_2997.MOV,Animals,7. Horse,6,train,17673240
+Animals\7. Horse\MVI_2998.MOV,Animals,7. Horse,6,train,18986088
+Animals\7. Horse\MVI_3021.MOV,Animals,7. Horse,6,train,16929584
+Animals\7. Horse\MVI_3022.MOV,Animals,7. Horse,6,train,17485840
+Animals\7. Horse\MVI_3023.MOV,Animals,7. Horse,6,train,21158652
+Animals\7. Horse\MVI_3053.MOV,Animals,7. Horse,6,train,15311488
+Animals\7. Horse\MVI_3054.MOV,Animals,7. Horse,6,train,18196440
+Animals\7. Horse\MVI_3055.MOV,Animals,7. Horse,6,test,20600592
+Animals\7. Horse\MVI_3079.MOV,Animals,7. Horse,6,train,17371836
+Animals\7. Horse\MVI_3080.MOV,Animals,7. Horse,6,test,17601604
+Animals\7. Horse\MVI_3081.MOV,Animals,7. Horse,6,val,19411212
+Animals\7. Horse\MVI_3103.MOV,Animals,7. Horse,6,train,15038888
+Animals\7. Horse\MVI_3104.MOV,Animals,7. Horse,6,train,16922536
+Animals\7. Horse\MVI_3105.MOV,Animals,7. Horse,6,train,14396984
+Animals\7. Horse\MVI_4164.MOV,Animals,7. Horse,6,test,14142084
+Animals\7. Horse\MVI_4165.MOV,Animals,7. Horse,6,train,12752312
+Animals\7. Horse\MVI_4166.MOV,Animals,7. Horse,6,train,11255436
+Animals\7. Horse\MVI_8574.MP4,Animals,7. Horse,6,val,8910379
+Animals\7. Horse\MVI_8575.MP4,Animals,7. Horse,6,train,10178821
+Animals\8. Animal\MVI_2999.MOV,Animals,8. Animal,7,test,23553904
+Animals\8. Animal\MVI_3000.MOV,Animals,8. Animal,7,val,26473992
+Animals\8. Animal\MVI_3001.MOV,Animals,8. Animal,7,train,23589612
+Animals\8. Animal\MVI_3025.MOV,Animals,8. Animal,7,train,24496796
+Animals\8. Animal\MVI_3026.MOV,Animals,8. Animal,7,train,28482296
+Animals\8. Animal\MVI_3027.MOV,Animals,8. Animal,7,train,23930144
+Animals\8. Animal\MVI_3056.MOV,Animals,8. Animal,7,val,23659292
+Animals\8. Animal\MVI_3057.MOV,Animals,8. Animal,7,val,21454900
+Animals\8. Animal\MVI_3058.MOV,Animals,8. Animal,7,test,19799168
+Animals\8. Animal\MVI_3082.MOV,Animals,8. Animal,7,train,21871680
+Animals\8. Animal\MVI_3083.MOV,Animals,8. Animal,7,train,23992588
+Animals\8. Animal\MVI_3084.MOV,Animals,8. Animal,7,train,23442416
+Animals\8. Animal\MVI_3107.MOV,Animals,8. Animal,7,train,23746212
+Animals\8. Animal\MVI_3108.MOV,Animals,8. Animal,7,train,24756396
+Animals\8. Animal\MVI_3109.MOV,Animals,8. Animal,7,train,23493460
+Animals\8. Animal\MVI_4167.MOV,Animals,8. Animal,7,train,16996248
+Animals\8. Animal\MVI_4168.MOV,Animals,8. Animal,7,train,17789856
+Animals\8. Animal\MVI_4169.MOV,Animals,8. Animal,7,test,17346756
+Animals\8. Animal\MVI_8576.MP4,Animals,8. Animal,7,train,13271291
+Animals\8. Animal\MVI_8577.MP4,Animals,8. Animal,7,train,14084553
+Clothes\37. Hat\MVI_3688.MOV,Clothes,37. Hat,8,val,15479948
+Clothes\37. Hat\MVI_3690.MOV,Clothes,37. Hat,8,val,12808004
+Clothes\37. Hat\MVI_3691.MOV,Clothes,37. Hat,8,train,26328708
+Clothes\37. Hat\MVI_3835.MOV,Clothes,37. Hat,8,train,15506444
+Clothes\37. Hat\MVI_3836.MOV,Clothes,37. Hat,8,train,9393292
+Clothes\37. Hat\MVI_3837.MOV,Clothes,37. Hat,8,train,8498240
+Clothes\37. Hat\MVI_3984.MOV,Clothes,37. Hat,8,train,11915828
+Clothes\37. Hat\MVI_3985.MOV,Clothes,37. Hat,8,train,12484864
+Clothes\37. Hat\MVI_3986.MOV,Clothes,37. Hat,8,train,22319200
+Clothes\37. Hat\MVI_4197.MOV,Clothes,37. Hat,8,train,11420424
+Clothes\37. Hat\MVI_4865.MOV,Clothes,37. Hat,8,train,17549916
+Clothes\37. Hat\MVI_4866.MOV,Clothes,37. Hat,8,train,12694936
+Clothes\37. Hat\MVI_4867.MOV,Clothes,37. Hat,8,train,14867612
+Clothes\37. Hat\MVI_5006.MOV,Clothes,37. Hat,8,val,13130584
+Clothes\37. Hat\MVI_5007.MOV,Clothes,37. Hat,8,train,10954580
+Clothes\37. Hat\MVI_5008.MOV,Clothes,37. Hat,8,test,10948636
+Clothes\37. Hat\MVI_5154.MOV,Clothes,37. Hat,8,test,13640160
+Clothes\37. Hat\MVI_5155.MOV,Clothes,37. Hat,8,train,13910104
+Clothes\37. Hat\MVI_5156.MOV,Clothes,37. Hat,8,train,11583440
+Clothes\37. Hat\MVI_8600.MP4,Clothes,37. Hat,8,test,7992227
+Clothes\38. Dress\MVI_3693.MOV,Clothes,38. Dress,9,test,13068468
+Clothes\38. Dress\MVI_3694.MOV,Clothes,38. Dress,9,train,14150640
+Clothes\38. Dress\MVI_3696.MOV,Clothes,38. Dress,9,train,13901712
+Clothes\38. Dress\MVI_3838.MOV,Clothes,38. Dress,9,test,10311312
+Clothes\38. Dress\MVI_3839.MOV,Clothes,38. Dress,9,train,11849940
+Clothes\38. Dress\MVI_3840.MOV,Clothes,38. Dress,9,test,11079060
+Clothes\38. Dress\MVI_3987.MOV,Clothes,38. Dress,9,train,14835756
+Clothes\38. Dress\MVI_3988.MOV,Clothes,38. Dress,9,val,19461800
+Clothes\38. Dress\MVI_3989.MOV,Clothes,38. Dress,9,train,13249392
+Clothes\38. Dress\MVI_4198.MOV,Clothes,38. Dress,9,train,10775532
+Clothes\38. Dress\MVI_4868.MOV,Clothes,38. Dress,9,val,12323244
+Clothes\38. Dress\MVI_4869.MOV,Clothes,38. Dress,9,train,13738860
+Clothes\38. Dress\MVI_4870.MOV,Clothes,38. Dress,9,train,11950420
+Clothes\38. Dress\MVI_5009.MOV,Clothes,38. Dress,9,train,10702512
+Clothes\38. Dress\MVI_5010.MOV,Clothes,38. Dress,9,train,11167036
+Clothes\38. Dress\MVI_5011.MOV,Clothes,38. Dress,9,train,11164400
+Clothes\38. Dress\MVI_5157.MOV,Clothes,38. Dress,9,val,14970880
+Clothes\38. Dress\MVI_5158.MOV,Clothes,38. Dress,9,train,12745828
+Clothes\38. Dress\MVI_5159.MOV,Clothes,38. Dress,9,train,11647596
+Clothes\38. Dress\MVI_8601.MP4,Clothes,38. Dress,9,train,8352496
+Clothes\39. Suit\MVI_3697.MOV,Clothes,39. Suit,10,test,15667764
+Clothes\39. Suit\MVI_3698.MOV,Clothes,39. Suit,10,train,18125684
+Clothes\39. Suit\MVI_3841.MOV,Clothes,39. Suit,10,train,17999320
+Clothes\39. Suit\MVI_3842.MOV,Clothes,39. Suit,10,val,15656780
+Clothes\39. Suit\MVI_3843.MOV,Clothes,39. Suit,10,train,15558884
+Clothes\39. Suit\MVI_3990.MOV,Clothes,39. Suit,10,train,17435832
+Clothes\39. Suit\MVI_3991.MOV,Clothes,39. Suit,10,train,18248120
+Clothes\39. Suit\MVI_3992.MOV,Clothes,39. Suit,10,train,15519484
+Clothes\39. Suit\MVI_4199.MOV,Clothes,39. Suit,10,test,13489428
+Clothes\39. Suit\MVI_4871.MOV,Clothes,39. Suit,10,train,16217040
+Clothes\39. Suit\MVI_4872.MOV,Clothes,39. Suit,10,train,18580316
+Clothes\39. Suit\MVI_4873.MOV,Clothes,39. Suit,10,train,18371012
+Clothes\39. Suit\MVI_5012.MOV,Clothes,39. Suit,10,train,12718648
+Clothes\39. Suit\MVI_5013.MOV,Clothes,39. Suit,10,train,12114700
+Clothes\39. Suit\MVI_5014.MOV,Clothes,39. Suit,10,train,11666860
+Clothes\39. Suit\MVI_5160.MOV,Clothes,39. Suit,10,test,22583132
+Clothes\39. Suit\MVI_5161.MOV,Clothes,39. Suit,10,val,14040232
+Clothes\39. Suit\MVI_5162.MOV,Clothes,39. Suit,10,train,13715360
+Clothes\39. Suit\MVI_8602.MP4,Clothes,39. Suit,10,val,9650903
+Clothes\40. Skirt\MVI_3699.MOV,Clothes,40. Skirt,11,train,15223148
+Clothes\40. Skirt\MVI_3700.MOV,Clothes,40. Skirt,11,train,16605972
+Clothes\40. Skirt\MVI_3844.MOV,Clothes,40. Skirt,11,test,13233388
+Clothes\40. Skirt\MVI_3845.MOV,Clothes,40. Skirt,11,train,12330688
+Clothes\40. Skirt\MVI_3846.MOV,Clothes,40. Skirt,11,train,11084048
+Clothes\40. Skirt\MVI_3996.MOV,Clothes,40. Skirt,11,test,12968512
+Clothes\40. Skirt\MVI_3997.MOV,Clothes,40. Skirt,11,train,14253720
+Clothes\40. Skirt\MVI_3998.MOV,Clothes,40. Skirt,11,train,13807708
+Clothes\40. Skirt\MVI_4200.MOV,Clothes,40. Skirt,11,train,9731340
+Clothes\40. Skirt\MVI_4874.MOV,Clothes,40. Skirt,11,train,14216076
+Clothes\40. Skirt\MVI_4875.MOV,Clothes,40. Skirt,11,train,12695768
+Clothes\40. Skirt\MVI_4876.MOV,Clothes,40. Skirt,11,train,13476812
+Clothes\40. Skirt\MVI_5015.MOV,Clothes,40. Skirt,11,val,14597424
+Clothes\40. Skirt\MVI_5016.MOV,Clothes,40. Skirt,11,test,10117872
+Clothes\40. Skirt\MVI_5017.MOV,Clothes,40. Skirt,11,train,10519568
+Clothes\40. Skirt\MVI_5163.MOV,Clothes,40. Skirt,11,train,11906736
+Clothes\40. Skirt\MVI_5164.MOV,Clothes,40. Skirt,11,val,10272364
+Clothes\40. Skirt\MVI_5165.MOV,Clothes,40. Skirt,11,val,11207400
+Clothes\40. Skirt\MVI_8604.MP4,Clothes,40. Skirt,11,train,10700172
+Clothes\41. Shirt\MVI_3701.MOV,Clothes,41. Shirt,12,val,25626424
+Clothes\41. Shirt\MVI_3702.MOV,Clothes,41. Shirt,12,train,18849568
+Clothes\41. Shirt\MVI_3703.MOV,Clothes,41. Shirt,12,val,16193232
+Clothes\41. Shirt\MVI_3847.MOV,Clothes,41. Shirt,12,test,24782856
+Clothes\41. Shirt\MVI_3848.MOV,Clothes,41. Shirt,12,train,25636008
+Clothes\41. Shirt\MVI_3849.MOV,Clothes,41. Shirt,12,train,23206420
+Clothes\41. Shirt\MVI_3999.MOV,Clothes,41. Shirt,12,train,15907740
+Clothes\41. Shirt\MVI_4000.MOV,Clothes,41. Shirt,12,train,13989472
+Clothes\41. Shirt\MVI_4001.MOV,Clothes,41. Shirt,12,train,15250544
+Clothes\41. Shirt\MVI_4201.MOV,Clothes,41. Shirt,12,train,15251384
+Clothes\41. Shirt\MVI_4877.MOV,Clothes,41. Shirt,12,train,20224216
+Clothes\41. Shirt\MVI_4879.MOV,Clothes,41. Shirt,12,train,17515304
+Clothes\41. Shirt\MVI_4880.MOV,Clothes,41. Shirt,12,train,16516224
+Clothes\41. Shirt\MVI_5018.MOV,Clothes,41. Shirt,12,train,15560880
+Clothes\41. Shirt\MVI_5019.MOV,Clothes,41. Shirt,12,train,14033340
+Clothes\41. Shirt\MVI_5020.MOV,Clothes,41. Shirt,12,val,15354692
+Clothes\41. Shirt\MVI_5166.MOV,Clothes,41. Shirt,12,test,16368344
+Clothes\41. Shirt\MVI_5167.MOV,Clothes,41. Shirt,12,train,15796164
+Clothes\41. Shirt\MVI_5168.MOV,Clothes,41. Shirt,12,test,17331468
+Clothes\41. Shirt\MVI_8605.MP4,Clothes,41. Shirt,12,train,13424633
+Clothes\42. T-Shirt\MVI_3704.MOV,Clothes,42. T-Shirt,13,val,18968108
+Clothes\42. T-Shirt\MVI_3705.MOV,Clothes,42. T-Shirt,13,train,15586220
+Clothes\42. T-Shirt\MVI_3706.MOV,Clothes,42. T-Shirt,13,test,16723020
+Clothes\42. T-Shirt\MVI_3850.MOV,Clothes,42. T-Shirt,13,train,23458672
+Clothes\42. T-Shirt\MVI_3851.MOV,Clothes,42. T-Shirt,13,train,19457536
+Clothes\42. T-Shirt\MVI_3852.MOV,Clothes,42. T-Shirt,13,test,20284736
+Clothes\42. T-Shirt\MVI_4002.MOV,Clothes,42. T-Shirt,13,train,20060776
+Clothes\42. T-Shirt\MVI_4003.MOV,Clothes,42. T-Shirt,13,train,18550956
+Clothes\42. T-Shirt\MVI_4004.MOV,Clothes,42. T-Shirt,13,train,17444172
+Clothes\42. T-Shirt\MVI_4202.MOV,Clothes,42. T-Shirt,13,val,13550144
+Clothes\42. T-Shirt\MVI_4881.MOV,Clothes,42. T-Shirt,13,train,17449760
+Clothes\42. T-Shirt\MVI_4882.MOV,Clothes,42. T-Shirt,13,train,17787880
+Clothes\42. T-Shirt\MVI_4883.MOV,Clothes,42. T-Shirt,13,train,15779696
+Clothes\42. T-Shirt\MVI_5021.MOV,Clothes,42. T-Shirt,13,train,14086740
+Clothes\42. T-Shirt\MVI_5022.MOV,Clothes,42. T-Shirt,13,val,16749044
+Clothes\42. T-Shirt\MVI_5023.MOV,Clothes,42. T-Shirt,13,train,17416336
+Clothes\42. T-Shirt\MVI_5169.MOV,Clothes,42. T-Shirt,13,train,13764292
+Clothes\42. T-Shirt\MVI_5170.MOV,Clothes,42. T-Shirt,13,train,15228004
+Clothes\42. T-Shirt\MVI_5171.MOV,Clothes,42. T-Shirt,13,train,14898552
+Clothes\42. T-Shirt\MVI_8606.MP4,Clothes,42. T-Shirt,13,test,11761180
+Clothes\43. Pant\MVI_3707.MOV,Clothes,43. Pant,14,val,17197056
+Clothes\43. Pant\MVI_3708.MOV,Clothes,43. Pant,14,train,13976088
+Clothes\43. Pant\MVI_3709.MOV,Clothes,43. Pant,14,train,13039776
+Clothes\43. Pant\MVI_3853.MOV,Clothes,43. Pant,14,train,16404904
+Clothes\43. Pant\MVI_3854.MOV,Clothes,43. Pant,14,train,17874552
+Clothes\43. Pant\MVI_3855.MOV,Clothes,43. Pant,14,val,14734848
+Clothes\43. Pant\MVI_4005.MOV,Clothes,43. Pant,14,test,13060480
+Clothes\43. Pant\MVI_4006.MOV,Clothes,43. Pant,14,test,14212384
+Clothes\43. Pant\MVI_4007.MOV,Clothes,43. Pant,14,test,13994556
+Clothes\43. Pant\MVI_4203.MOV,Clothes,43. Pant,14,train,9270512
+Clothes\43. Pant\MVI_4884.MOV,Clothes,43. Pant,14,val,11445600
+Clothes\43. Pant\MVI_4885.MOV,Clothes,43. Pant,14,train,14829180
+Clothes\43. Pant\MVI_4886.MOV,Clothes,43. Pant,14,train,10562352
+Clothes\43. Pant\MVI_5024.MOV,Clothes,43. Pant,14,train,10256928
+Clothes\43. Pant\MVI_5025.MOV,Clothes,43. Pant,14,train,11562784
+Clothes\43. Pant\MVI_5026.MOV,Clothes,43. Pant,14,train,11189224
+Clothes\43. Pant\MVI_5172.MOV,Clothes,43. Pant,14,train,11946924
+Clothes\43. Pant\MVI_5173.MOV,Clothes,43. Pant,14,train,9601912
+Clothes\43. Pant\MVI_5174.MOV,Clothes,43. Pant,14,train,8712768
+Clothes\43. Pant\MVI_8607.MP4,Clothes,43. Pant,14,train,8593183
+Clothes\44. Shoes\MVI_3710.MOV,Clothes,44. Shoes,15,test,14518932
+Clothes\44. Shoes\MVI_3711.MOV,Clothes,44. Shoes,15,train,15430168
+Clothes\44. Shoes\MVI_3712.MOV,Clothes,44. Shoes,15,train,15588316
+Clothes\44. Shoes\MVI_3856.MOV,Clothes,44. Shoes,15,train,18377528
+Clothes\44. Shoes\MVI_3857.MOV,Clothes,44. Shoes,15,train,20436408
+Clothes\44. Shoes\MVI_3858.MOV,Clothes,44. Shoes,15,train,20338136
+Clothes\44. Shoes\MVI_4008.MOV,Clothes,44. Shoes,15,train,16470112
+Clothes\44. Shoes\MVI_4009.MOV,Clothes,44. Shoes,15,val,14779364
+Clothes\44. Shoes\MVI_4010.MOV,Clothes,44. Shoes,15,train,16385620
+Clothes\44. Shoes\MVI_4204.MOV,Clothes,44. Shoes,15,train,12161444
+Clothes\44. Shoes\MVI_4887.MOV,Clothes,44. Shoes,15,train,18838388
+Clothes\44. Shoes\MVI_4888.MOV,Clothes,44. Shoes,15,train,18111064
+Clothes\44. Shoes\MVI_4889.MOV,Clothes,44. Shoes,15,test,16768216
+Clothes\44. Shoes\MVI_5028.MOV,Clothes,44. Shoes,15,val,14097912
+Clothes\44. Shoes\MVI_5029.MOV,Clothes,44. Shoes,15,train,15145500
+Clothes\44. Shoes\MVI_5030.MOV,Clothes,44. Shoes,15,val,15814640
+Clothes\44. Shoes\MVI_5175.MOV,Clothes,44. Shoes,15,test,13635352
+Clothes\44. Shoes\MVI_5176.MOV,Clothes,44. Shoes,15,train,14297796
+Clothes\44. Shoes\MVI_5177.MOV,Clothes,44. Shoes,15,train,13683996
+Clothes\44. Shoes\MVI_8608.MP4,Clothes,44. Shoes,15,train,9888325
+Clothes\45. Pocket\MVI_3713.MOV,Clothes,45. Pocket,16,train,14928232
+Clothes\45. Pocket\MVI_3714.MOV,Clothes,45. Pocket,16,train,12071824
+Clothes\45. Pocket\MVI_3715.MOV,Clothes,45. Pocket,16,train,13260724
+Clothes\45. Pocket\MVI_3859.MOV,Clothes,45. Pocket,16,train,19133128
+Clothes\45. Pocket\MVI_3861.MOV,Clothes,45. Pocket,16,train,13325020
+Clothes\45. Pocket\MVI_3862.MOV,Clothes,45. Pocket,16,test,9312396
+Clothes\45. Pocket\MVI_4011.MOV,Clothes,45. Pocket,16,train,14232972
+Clothes\45. Pocket\MVI_4012.MOV,Clothes,45. Pocket,16,train,17884704
+Clothes\45. Pocket\MVI_4013.MOV,Clothes,45. Pocket,16,train,12889952
+Clothes\45. Pocket\MVI_4205.MOV,Clothes,45. Pocket,16,val,11126660
+Clothes\45. Pocket\MVI_4890.MOV,Clothes,45. Pocket,16,test,13616612
+Clothes\45. Pocket\MVI_4891.MOV,Clothes,45. Pocket,16,train,15677352
+Clothes\45. Pocket\MVI_4892.MOV,Clothes,45. Pocket,16,train,12687592
+Clothes\45. Pocket\MVI_5031.MOV,Clothes,45. Pocket,16,train,12582308
+Clothes\45. Pocket\MVI_5032.MOV,Clothes,45. Pocket,16,val,13289604
+Clothes\45. Pocket\MVI_5033.MOV,Clothes,45. Pocket,16,train,11734340
+Clothes\45. Pocket\MVI_5178.MOV,Clothes,45. Pocket,16,val,12045076
+Clothes\45. Pocket\MVI_5179.MOV,Clothes,45. Pocket,16,test,11353212
+Clothes\45. Pocket\MVI_5180.MOV,Clothes,45. Pocket,16,train,12055712
+Clothes\45. Pocket\MVI_8610.MP4,Clothes,45. Pocket,16,train,10689069
+Clothes\46. Clothing\MVI_3716.MOV,Clothes,46. Clothing,17,train,13583924
+Clothes\46. Clothing\MVI_3717.MOV,Clothes,46. Clothing,17,test,13606584
+Clothes\46. Clothing\MVI_3718.MOV,Clothes,46. Clothing,17,val,11635336
+Clothes\46. Clothing\MVI_3863.MOV,Clothes,46. Clothing,17,train,18427384
+Clothes\46. Clothing\MVI_3864.MOV,Clothes,46. Clothing,17,train,16509976
+Clothes\46. Clothing\MVI_3865.MOV,Clothes,46. Clothing,17,train,16411352
+Clothes\46. Clothing\MVI_4014.MOV,Clothes,46. Clothing,17,train,12981168
+Clothes\46. Clothing\MVI_4015.MOV,Clothes,46. Clothing,17,val,13214468
+Clothes\46. Clothing\MVI_4016.MOV,Clothes,46. Clothing,17,train,13048192
+Clothes\46. Clothing\MVI_4206.MOV,Clothes,46. Clothing,17,train,10704312
+Clothes\46. Clothing\MVI_4894.MOV,Clothes,46. Clothing,17,train,13208148
+Clothes\46. Clothing\MVI_4895.MOV,Clothes,46. Clothing,17,test,12923116
+Clothes\46. Clothing\MVI_4896.MOV,Clothes,46. Clothing,17,test,11155988
+Clothes\46. Clothing\MVI_5034.MOV,Clothes,46. Clothing,17,train,10668980
+Clothes\46. Clothing\MVI_5035.MOV,Clothes,46. Clothing,17,train,9481640
+Clothes\46. Clothing\MVI_5036.MOV,Clothes,46. Clothing,17,val,10669232
+Clothes\46. Clothing\MVI_5181.MOV,Clothes,46. Clothing,17,train,13260228
+Clothes\46. Clothing\MVI_5182.MOV,Clothes,46. Clothing,17,train,12990028
+Clothes\46. Clothing\MVI_5183.MOV,Clothes,46. Clothing,17,train,12362912
+Clothes\46. Clothing\MVI_8611.MP4,Clothes,46. Clothing,17,train,10346854
+Colours\47. Red\MVI_3719.MOV,Colours,47. Red,18,test,12787384
+Colours\47. Red\MVI_3720.MOV,Colours,47. Red,18,test,13795224
+Colours\47. Red\MVI_3721.MOV,Colours,47. Red,18,train,11787800
+Colours\47. Red\MVI_3866.MOV,Colours,47. Red,18,train,16367088
+Colours\47. Red\MVI_3867.MOV,Colours,47. Red,18,train,14351900
+Colours\47. Red\MVI_3868.MOV,Colours,47. Red,18,train,15270096
+Colours\47. Red\MVI_4017.MOV,Colours,47. Red,18,train,13181916
+Colours\47. Red\MVI_4018.MOV,Colours,47. Red,18,train,14461140
+Colours\47. Red\MVI_4019.MOV,Colours,47. Red,18,val,13786132
+Colours\47. Red\MVI_4207.MOV,Colours,47. Red,18,train,9493944
+Colours\47. Red\MVI_4897.MOV,Colours,47. Red,18,train,12249632
+Colours\47. Red\MVI_4898.MOV,Colours,47. Red,18,val,13363932
+Colours\47. Red\MVI_4899.MOV,Colours,47. Red,18,train,12944992
+Colours\47. Red\MVI_5037.MOV,Colours,47. Red,18,train,11227724
+Colours\47. Red\MVI_5038.MOV,Colours,47. Red,18,test,12802732
+Colours\47. Red\MVI_5039.MOV,Colours,47. Red,18,train,12834736
+Colours\47. Red\MVI_5184.MOV,Colours,47. Red,18,train,11304652
+Colours\47. Red\MVI_5185.MOV,Colours,47. Red,18,val,10995556
+Colours\47. Red\MVI_5186.MOV,Colours,47. Red,18,train,11145252
+Colours\47. Red\MVI_8612.MP4,Colours,47. Red,18,train,11390157
+Colours\48. Green\MVI_3722.MOV,Colours,48. Green,19,train,11549364
+Colours\48. Green\MVI_3723.MOV,Colours,48. Green,19,train,13043644
+Colours\48. Green\MVI_3724.MOV,Colours,48. Green,19,train,10261500
+Colours\48. Green\MVI_3869.MOV,Colours,48. Green,19,train,19788168
+Colours\48. Green\MVI_3870.MOV,Colours,48. Green,19,test,17883368
+Colours\48. Green\MVI_3871.MOV,Colours,48. Green,19,train,19880780
+Colours\48. Green\MVI_4020.MOV,Colours,48. Green,19,train,19844924
+Colours\48. Green\MVI_4021.MOV,Colours,48. Green,19,train,13883212
+Colours\48. Green\MVI_4022.MOV,Colours,48. Green,19,train,12009256
+Colours\48. Green\MVI_4208.MOV,Colours,48. Green,19,train,10681192
+Colours\48. Green\MVI_4900.MOV,Colours,48. Green,19,train,12139560
+Colours\48. Green\MVI_4901.MOV,Colours,48. Green,19,val,11440856
+Colours\48. Green\MVI_4902.MOV,Colours,48. Green,19,train,11029776
+Colours\48. Green\MVI_5040.MOV,Colours,48. Green,19,val,10111152
+Colours\48. Green\MVI_5041.MOV,Colours,48. Green,19,train,9672808
+Colours\48. Green\MVI_5042.MOV,Colours,48. Green,19,test,10822692
+Colours\48. Green\MVI_5187.MOV,Colours,48. Green,19,train,13948668
+Colours\48. Green\MVI_5188.MOV,Colours,48. Green,19,val,14218108
+Colours\48. Green\MVI_5189.MOV,Colours,48. Green,19,test,15596512
+Colours\48. Green\MVI_8613.MP4,Colours,48. Green,19,train,10310224
+Colours\49. Blue\MVI_3725.MOV,Colours,49. Blue,20,train,12895528
+Colours\49. Blue\MVI_3726.MOV,Colours,49. Blue,20,test,12456144
+Colours\49. Blue\MVI_3727.MOV,Colours,49. Blue,20,test,12509916
+Colours\49. Blue\MVI_3872.MOV,Colours,49. Blue,20,val,17921944
+Colours\49. Blue\MVI_3873.MOV,Colours,49. Blue,20,val,21971244
+Colours\49. Blue\MVI_3874.MOV,Colours,49. Blue,20,train,15911664
+Colours\49. Blue\MVI_4024.MOV,Colours,49. Blue,20,train,11905524
+Colours\49. Blue\MVI_4025.MOV,Colours,49. Blue,20,train,10922236
+Colours\49. Blue\MVI_4026.MOV,Colours,49. Blue,20,train,11856016
+Colours\49. Blue\MVI_4209.MOV,Colours,49. Blue,20,val,10534200
+Colours\49. Blue\MVI_4903.MOV,Colours,49. Blue,20,train,10576080
+Colours\49. Blue\MVI_4904.MOV,Colours,49. Blue,20,train,11747004
+Colours\49. Blue\MVI_4905.MOV,Colours,49. Blue,20,train,11259508
+Colours\49. Blue\MVI_5043.MOV,Colours,49. Blue,20,train,10498448
+Colours\49. Blue\MVI_5044.MOV,Colours,49. Blue,20,train,7982788
+Colours\49. Blue\MVI_5045.MOV,Colours,49. Blue,20,train,7733060
+Colours\49. Blue\MVI_5190.MOV,Colours,49. Blue,20,test,14265040
+Colours\49. Blue\MVI_5191.MOV,Colours,49. Blue,20,train,14431928
+Colours\49. Blue\MVI_5192.MOV,Colours,49. Blue,20,train,11494756
+Colours\49. Blue\MVI_8614.MP4,Colours,49. Blue,20,train,10106241
+Colours\50. Yellow\MVI_3728.MOV,Colours,50. Yellow,21,test,11826276
+Colours\50. Yellow\MVI_3729.MOV,Colours,50. Yellow,21,train,14405040
+Colours\50. Yellow\MVI_3730.MOV,Colours,50. Yellow,21,test,10431888
+Colours\50. Yellow\MVI_3875.MOV,Colours,50. Yellow,21,train,17262144
+Colours\50. Yellow\MVI_3876.MOV,Colours,50. Yellow,21,train,17889276
+Colours\50. Yellow\MVI_3877.MOV,Colours,50. Yellow,21,train,18105124
+Colours\50. Yellow\MVI_4027.MOV,Colours,50. Yellow,21,train,12422580
+Colours\50. Yellow\MVI_4028.MOV,Colours,50. Yellow,21,train,13189700
+Colours\50. Yellow\MVI_4029.MOV,Colours,50. Yellow,21,train,14260492
+Colours\50. Yellow\MVI_4211.MOV,Colours,50. Yellow,21,train,14497492
+Colours\50. Yellow\MVI_4906.MOV,Colours,50. Yellow,21,train,9892408
+Colours\50. Yellow\MVI_4907.MOV,Colours,50. Yellow,21,val,14535508
+Colours\50. Yellow\MVI_4908.MOV,Colours,50. Yellow,21,val,11141952
+Colours\50. Yellow\MVI_5046.MOV,Colours,50. Yellow,21,train,11440956
+Colours\50. Yellow\MVI_5047.MOV,Colours,50. Yellow,21,train,11674360
+Colours\50. Yellow\MVI_5048.MOV,Colours,50. Yellow,21,train,9630760
+Colours\50. Yellow\MVI_5193.MOV,Colours,50. Yellow,21,val,11453496
+Colours\50. Yellow\MVI_5194.MOV,Colours,50. Yellow,21,test,10027212
+Colours\50. Yellow\MVI_5195.MOV,Colours,50. Yellow,21,train,9593376
+Colours\50. Yellow\MVI_8615.MP4,Colours,50. Yellow,21,train,9974523
+Colours\51. Brown\MVI_3731.MOV,Colours,51. Brown,22,train,11693872
+Colours\51. Brown\MVI_3732.MOV,Colours,51. Brown,22,test,9124984
+Colours\51. Brown\MVI_3733.MOV,Colours,51. Brown,22,test,11611232
+Colours\51. Brown\MVI_3878.MOV,Colours,51. Brown,22,train,19353396
+Colours\51. Brown\MVI_3879.MOV,Colours,51. Brown,22,train,16903224
+Colours\51. Brown\MVI_3880.MOV,Colours,51. Brown,22,train,17255612
+Colours\51. Brown\MVI_4030.MOV,Colours,51. Brown,22,test,13464556
+Colours\51. Brown\MVI_4031.MOV,Colours,51. Brown,22,train,12516544
+Colours\51. Brown\MVI_4032.MOV,Colours,51. Brown,22,train,11267500
+Colours\51. Brown\MVI_4212.MOV,Colours,51. Brown,22,train,13580044
+Colours\51. Brown\MVI_4909.MOV,Colours,51. Brown,22,train,12641968
+Colours\51. Brown\MVI_4910.MOV,Colours,51. Brown,22,train,11671952
+Colours\51. Brown\MVI_4911.MOV,Colours,51. Brown,22,train,13287368
+Colours\51. Brown\MVI_5049.MOV,Colours,51. Brown,22,val,11700096
+Colours\51. Brown\MVI_5050.MOV,Colours,51. Brown,22,train,9863508
+Colours\51. Brown\MVI_5051.MOV,Colours,51. Brown,22,train,11505040
+Colours\51. Brown\MVI_5196.MOV,Colours,51. Brown,22,train,14009996
+Colours\51. Brown\MVI_5197.MOV,Colours,51. Brown,22,val,13228564
+Colours\51. Brown\MVI_5198.MOV,Colours,51. Brown,22,val,11970132
+Colours\51. Brown\MVI_5199.MOV,Colours,51. Brown,22,train,14143880
+Colours\51. Brown\MVI_8616.MP4,Colours,51. Brown,22,train,9762645
+Colours\52. Pink\MVI_3734.MOV,Colours,52. Pink,23,train,11522024
+Colours\52. Pink\MVI_3735.MOV,Colours,52. Pink,23,train,10809856
+Colours\52. Pink\MVI_3736.MOV,Colours,52. Pink,23,train,12993312
+Colours\52. Pink\MVI_3881.MOV,Colours,52. Pink,23,test,15012984
+Colours\52. Pink\MVI_3882.MOV,Colours,52. Pink,23,val,16006156
+Colours\52. Pink\MVI_3883.MOV,Colours,52. Pink,23,train,14470880
+Colours\52. Pink\MVI_4033.MOV,Colours,52. Pink,23,train,11180744
+Colours\52. Pink\MVI_4034.MOV,Colours,52. Pink,23,train,11035848
+Colours\52. Pink\MVI_4035.MOV,Colours,52. Pink,23,test,11402256
+Colours\52. Pink\MVI_4213.MOV,Colours,52. Pink,23,val,12060820
+Colours\52. Pink\MVI_4912.MOV,Colours,52. Pink,23,test,11944008
+Colours\52. Pink\MVI_4913.MOV,Colours,52. Pink,23,train,11299976
+Colours\52. Pink\MVI_4914.MOV,Colours,52. Pink,23,train,12782512
+Colours\52. Pink\MVI_5052.MOV,Colours,52. Pink,23,train,13913148
+Colours\52. Pink\MVI_5053.MOV,Colours,52. Pink,23,train,11704760
+Colours\52. Pink\MVI_5054.MOV,Colours,52. Pink,23,train,11872460
+Colours\52. Pink\MVI_5200.MOV,Colours,52. Pink,23,train,15291316
+Colours\52. Pink\MVI_5201.MOV,Colours,52. Pink,23,train,13468188
+Colours\52. Pink\MVI_5202.MOV,Colours,52. Pink,23,val,12904320
+Colours\52. Pink\MVI_8617.MP4,Colours,52. Pink,23,train,10000332
+Colours\53. Orange\MVI_3737.MOV,Colours,53. Orange,24,val,9329312
+Colours\53. Orange\MVI_3738.MOV,Colours,53. Orange,24,train,8770492
+Colours\53. Orange\MVI_3739.MOV,Colours,53. Orange,24,test,9129004
+Colours\53. Orange\MVI_3884.MOV,Colours,53. Orange,24,train,20185564
+Colours\53. Orange\MVI_3885.MOV,Colours,53. Orange,24,train,21718900
+Colours\53. Orange\MVI_3886.MOV,Colours,53. Orange,24,train,19038152
+Colours\53. Orange\MVI_4036.MOV,Colours,53. Orange,24,train,12218044
+Colours\53. Orange\MVI_4037.MOV,Colours,53. Orange,24,train,12323568
+Colours\53. Orange\MVI_4038.MOV,Colours,53. Orange,24,val,10846860
+Colours\53. Orange\MVI_4214.MOV,Colours,53. Orange,24,train,11264888
+Colours\53. Orange\MVI_4915.MOV,Colours,53. Orange,24,train,10390696
+Colours\53. Orange\MVI_4916.MOV,Colours,53. Orange,24,train,12652696
+Colours\53. Orange\MVI_4917.MOV,Colours,53. Orange,24,test,8834984
+Colours\53. Orange\MVI_5055.MOV,Colours,53. Orange,24,val,11877588
+Colours\53. Orange\MVI_5056.MOV,Colours,53. Orange,24,train,12378232
+Colours\53. Orange\MVI_5057.MOV,Colours,53. Orange,24,train,11502988
+Colours\53. Orange\MVI_5203.MOV,Colours,53. Orange,24,test,12102076
+Colours\53. Orange\MVI_5204.MOV,Colours,53. Orange,24,train,12316444
+Colours\53. Orange\MVI_5205.MOV,Colours,53. Orange,24,train,12685780
+Colours\53. Orange\MVI_8618.MP4,Colours,53. Orange,24,train,11410441
+Colours\54. Black\MVI_3740.MOV,Colours,54. Black,25,train,9518992
+Colours\54. Black\MVI_3741.MOV,Colours,54. Black,25,train,11516132
+Colours\54. Black\MVI_3742.MOV,Colours,54. Black,25,train,10064488
+Colours\54. Black\MVI_3887.MOV,Colours,54. Black,25,train,15021664
+Colours\54. Black\MVI_3888.MOV,Colours,54. Black,25,test,15641744
+Colours\54. Black\MVI_3889.MOV,Colours,54. Black,25,train,12504368
+Colours\54. Black\MVI_4039.MOV,Colours,54. Black,25,train,10120400
+Colours\54. Black\MVI_4040.MOV,Colours,54. Black,25,train,9662300
+Colours\54. Black\MVI_4041.MOV,Colours,54. Black,25,train,11199864
+Colours\54. Black\MVI_4215.MOV,Colours,54. Black,25,train,10544944
+Colours\54. Black\MVI_4918.MOV,Colours,54. Black,25,train,9391880
+Colours\54. Black\MVI_4919.MOV,Colours,54. Black,25,train,11908704
+Colours\54. Black\MVI_4920.MOV,Colours,54. Black,25,train,11946828
+Colours\54. Black\MVI_5058.MOV,Colours,54. Black,25,test,9920340
+Colours\54. Black\MVI_5059.MOV,Colours,54. Black,25,test,10436304
+Colours\54. Black\MVI_5060.MOV,Colours,54. Black,25,val,8587600
+Colours\54. Black\MVI_5206.MOV,Colours,54. Black,25,val,11388924
+Colours\54. Black\MVI_5207.MOV,Colours,54. Black,25,train,12015640
+Colours\54. Black\MVI_5208.MOV,Colours,54. Black,25,val,11973808
+Colours\54. Black\MVI_8619.MP4,Colours,54. Black,25,train,10216112
+Colours\55. White\MVI_3743.MOV,Colours,55. White,26,train,11076584
+Colours\55. White\MVI_3744.MOV,Colours,55. White,26,train,9672156
+Colours\55. White\MVI_3745.MOV,Colours,55. White,26,val,9751880
+Colours\55. White\MVI_3890.MOV,Colours,55. White,26,train,17203208
+Colours\55. White\MVI_3891.MOV,Colours,55. White,26,test,18419080
+Colours\55. White\MVI_3892.MOV,Colours,55. White,26,train,14835896
+Colours\55. White\MVI_4042.MOV,Colours,55. White,26,test,12141196
+Colours\55. White\MVI_4043.MOV,Colours,55. White,26,train,12132536
+Colours\55. White\MVI_4044.MOV,Colours,55. White,26,train,11701404
+Colours\55. White\MVI_4216.MOV,Colours,55. White,26,train,9020512
+Colours\55. White\MVI_4921.MOV,Colours,55. White,26,train,10873448
+Colours\55. White\MVI_4922.MOV,Colours,55. White,26,train,11525548
+Colours\55. White\MVI_4923.MOV,Colours,55. White,26,test,9467500
+Colours\55. White\MVI_5061.MOV,Colours,55. White,26,val,9396164
+Colours\55. White\MVI_5062.MOV,Colours,55. White,26,train,10053764
+Colours\55. White\MVI_5063.MOV,Colours,55. White,26,train,10857960
+Colours\55. White\MVI_5209.MOV,Colours,55. White,26,train,10903120
+Colours\55. White\MVI_5210.MOV,Colours,55. White,26,train,13931792
+Colours\55. White\MVI_5211.MOV,Colours,55. White,26,train,12653616
+Colours\55. White\MVI_8620.MP4,Colours,55. White,26,val,9633574
+Colours\56. Grey\MVI_3746.MOV,Colours,56. Grey,27,train,13750440
+Colours\56. Grey\MVI_3747.MOV,Colours,56. Grey,27,test,13305232
+Colours\56. Grey\MVI_3748.MOV,Colours,56. Grey,27,val,13210856
+Colours\56. Grey\MVI_3749.MOV,Colours,56. Grey,27,train,14362724
+Colours\56. Grey\MVI_3894.MOV,Colours,56. Grey,27,test,17976892
+Colours\56. Grey\MVI_3895.MOV,Colours,56. Grey,27,val,16242600
+Colours\56. Grey\MVI_3896.MOV,Colours,56. Grey,27,train,16072864
+Colours\56. Grey\MVI_4045.MOV,Colours,56. Grey,27,val,11354648
+Colours\56. Grey\MVI_4046.MOV,Colours,56. Grey,27,train,13134916
+Colours\56. Grey\MVI_4047.MOV,Colours,56. Grey,27,train,12896608
+Colours\56. Grey\MVI_4217.MOV,Colours,56. Grey,27,train,13998928
+Colours\56. Grey\MVI_4924.MOV,Colours,56. Grey,27,train,11766736
+Colours\56. Grey\MVI_4926.MOV,Colours,56. Grey,27,train,14052900
+Colours\56. Grey\MVI_4927.MOV,Colours,56. Grey,27,train,14494868
+Colours\56. Grey\MVI_5064.MOV,Colours,56. Grey,27,train,13397292
+Colours\56. Grey\MVI_5065.MOV,Colours,56. Grey,27,train,13327948
+Colours\56. Grey\MVI_5066.MOV,Colours,56. Grey,27,train,13319768
+Colours\56. Grey\MVI_5212.MOV,Colours,56. Grey,27,val,13260560
+Colours\56. Grey\MVI_5213.MOV,Colours,56. Grey,27,test,13266408
+Colours\56. Grey\MVI_5214.MOV,Colours,56. Grey,27,train,14880768
+Colours\56. Grey\MVI_8621.MP4,Colours,56. Grey,27,train,11659353
+Colours\57. Colour\MVI_3750.MOV,Colours,57. Colour,28,train,13160188
+Colours\57. Colour\MVI_3751.MOV,Colours,57. Colour,28,train,7083608
+Colours\57. Colour\MVI_3752.MOV,Colours,57. Colour,28,val,10084600
+Colours\57. Colour\MVI_3897.MOV,Colours,57. Colour,28,train,17846076
+Colours\57. Colour\MVI_3898.MOV,Colours,57. Colour,28,train,12913016
+Colours\57. Colour\MVI_3899.MOV,Colours,57. Colour,28,train,15875516
+Colours\57. Colour\MVI_4048.MOV,Colours,57. Colour,28,test,11623260
+Colours\57. Colour\MVI_4049.MOV,Colours,57. Colour,28,train,12161564
+Colours\57. Colour\MVI_4050.MOV,Colours,57. Colour,28,train,11886812
+Colours\57. Colour\MVI_4218.MOV,Colours,57. Colour,28,val,13118820
+Colours\57. Colour\MVI_4928.MOV,Colours,57. Colour,28,train,12143692
+Colours\57. Colour\MVI_4929.MOV,Colours,57. Colour,28,test,11109540
+Colours\57. Colour\MVI_4930.MOV,Colours,57. Colour,28,train,11555180
+Colours\57. Colour\MVI_5068.MOV,Colours,57. Colour,28,val,9833940
+Colours\57. Colour\MVI_5069.MOV,Colours,57. Colour,28,train,10253140
+Colours\57. Colour\MVI_5070.MOV,Colours,57. Colour,28,train,12193960
+Colours\57. Colour\MVI_5215.MOV,Colours,57. Colour,28,train,11034380
+Colours\57. Colour\MVI_5216.MOV,Colours,57. Colour,28,train,12388824
+Colours\57. Colour\MVI_5217.MOV,Colours,57. Colour,28,test,9390964
+Colours\57. Colour\MVI_8622.MP4,Colours,57. Colour,28,train,8921720
+Days_and_Time\66. Sunday\MVI_4586.MOV,Days_and_Time,66. Sunday,29,val,15834656
+Days_and_Time\66. Sunday\MVI_4588.MOV,Days_and_Time,66. Sunday,29,train,15508236
+Days_and_Time\66. Sunday\MVI_4589.MOV,Days_and_Time,66. Sunday,29,train,13263988
+Days_and_Time\66. Sunday\MVI_4590.MOV,Days_and_Time,66. Sunday,29,train,12550444
+Days_and_Time\66. Sunday\MVI_5005.MOV,Days_and_Time,66. Sunday,29,train,11182580
+Days_and_Time\66. Sunday\MVI_5006.MOV,Days_and_Time,66. Sunday,29,train,10702268
+Days_and_Time\66. Sunday\MVI_5008.MOV,Days_and_Time,66. Sunday,29,train,9953884
+Days_and_Time\66. Sunday\MVI_5442.MOV,Days_and_Time,66. Sunday,29,train,11113000
+Days_and_Time\66. Sunday\MVI_5443.MOV,Days_and_Time,66. Sunday,29,test,12260820
+Days_and_Time\66. Sunday\MVI_5444.MOV,Days_and_Time,66. Sunday,29,train,13157712
+Days_and_Time\66. Sunday\MVI_5445.MOV,Days_and_Time,66. Sunday,29,train,12281248
+Days_and_Time\66. Sunday\MVI_9139.MP4,Days_and_Time,66. Sunday,29,val,11591732
+Days_and_Time\66. Sunday\MVI_9140.MP4,Days_and_Time,66. Sunday,29,train,11212350
+Days_and_Time\66. Sunday\MVI_9141.MP4,Days_and_Time,66. Sunday,29,test,10682212
+Days_and_Time\67. Monday\MVI_4591.MOV,Days_and_Time,67. Monday,30,train,12494544
+Days_and_Time\67. Monday\MVI_4592.MOV,Days_and_Time,67. Monday,30,train,11866584
+Days_and_Time\67. Monday\MVI_4593.MOV,Days_and_Time,67. Monday,30,train,13211388
+Days_and_Time\67. Monday\MVI_4594.MOV,Days_and_Time,67. Monday,30,train,13051196
+Days_and_Time\67. Monday\MVI_5009.MOV,Days_and_Time,67. Monday,30,test,10160172
+Days_and_Time\67. Monday\MVI_5010.MOV,Days_and_Time,67. Monday,30,test,10299596
+Days_and_Time\67. Monday\MVI_5011.MOV,Days_and_Time,67. Monday,30,train,11755336
+Days_and_Time\67. Monday\MVI_5446.MOV,Days_and_Time,67. Monday,30,train,11587012
+Days_and_Time\67. Monday\MVI_5447.MOV,Days_and_Time,67. Monday,30,train,11785052
+Days_and_Time\67. Monday\MVI_5448.MOV,Days_and_Time,67. Monday,30,train,11971288
+Days_and_Time\67. Monday\MVI_5449.MOV,Days_and_Time,67. Monday,30,train,11284588
+Days_and_Time\67. Monday\MVI_9142.MP4,Days_and_Time,67. Monday,30,train,9488659
+Days_and_Time\67. Monday\MVI_9143.MP4,Days_and_Time,67. Monday,30,val,10437137
+Days_and_Time\67. Monday\MVI_9144.MP4,Days_and_Time,67. Monday,30,val,8725432
+Days_and_Time\68. Tuesday\MVI_4595.MOV,Days_and_Time,68. Tuesday,31,test,13013340
+Days_and_Time\68. Tuesday\MVI_4596.MOV,Days_and_Time,68. Tuesday,31,train,12103664
+Days_and_Time\68. Tuesday\MVI_4597.MOV,Days_and_Time,68. Tuesday,31,train,13661296
+Days_and_Time\68. Tuesday\MVI_4598.MOV,Days_and_Time,68. Tuesday,31,train,15495868
+Days_and_Time\68. Tuesday\MVI_5012.MOV,Days_and_Time,68. Tuesday,31,val,11102684
+Days_and_Time\68. Tuesday\MVI_5013.MOV,Days_and_Time,68. Tuesday,31,train,11507248
+Days_and_Time\68. Tuesday\MVI_5014.MOV,Days_and_Time,68. Tuesday,31,train,11795032
+Days_and_Time\68. Tuesday\MVI_5450.MOV,Days_and_Time,68. Tuesday,31,train,11368252
+Days_and_Time\68. Tuesday\MVI_5451.MOV,Days_and_Time,68. Tuesday,31,test,11267044
+Days_and_Time\68. Tuesday\MVI_5452.MOV,Days_and_Time,68. Tuesday,31,train,10815672
+Days_and_Time\68. Tuesday\MVI_5453.MOV,Days_and_Time,68. Tuesday,31,train,12503084
+Days_and_Time\68. Tuesday\MVI_9145.MP4,Days_and_Time,68. Tuesday,31,train,10079977
+Days_and_Time\68. Tuesday\MVI_9146.MP4,Days_and_Time,68. Tuesday,31,val,9577716
+Days_and_Time\68. Tuesday\MVI_9147.MP4,Days_and_Time,68. Tuesday,31,train,9347979
+Days_and_Time\69. Wednesday\MVI_4599.MOV,Days_and_Time,69. Wednesday,32,train,11033480
+Days_and_Time\69. Wednesday\MVI_4600.MOV,Days_and_Time,69. Wednesday,32,train,11881404
+Days_and_Time\69. Wednesday\MVI_4601.MOV,Days_and_Time,69. Wednesday,32,train,12344844
+Days_and_Time\69. Wednesday\MVI_4602.MOV,Days_and_Time,69. Wednesday,32,train,10818724
+Days_and_Time\69. Wednesday\MVI_5016.MOV,Days_and_Time,69. Wednesday,32,train,11069752
+Days_and_Time\69. Wednesday\MVI_5017.MOV,Days_and_Time,69. Wednesday,32,test,11052768
+Days_and_Time\69. Wednesday\MVI_5018.MOV,Days_and_Time,69. Wednesday,32,train,11109704
+Days_and_Time\69. Wednesday\MVI_5454.MOV,Days_and_Time,69. Wednesday,32,test,12519952
+Days_and_Time\69. Wednesday\MVI_5455.MOV,Days_and_Time,69. Wednesday,32,train,11799856
+Days_and_Time\69. Wednesday\MVI_5456.MOV,Days_and_Time,69. Wednesday,32,train,11926224
+Days_and_Time\69. Wednesday\MVI_5457.MOV,Days_and_Time,69. Wednesday,32,train,9821408
+Days_and_Time\69. Wednesday\MVI_9148.MP4,Days_and_Time,69. Wednesday,32,val,9379365
+Days_and_Time\69. Wednesday\MVI_9149.MP4,Days_and_Time,69. Wednesday,32,train,9369989
+Days_and_Time\69. Wednesday\MVI_9150.MP4,Days_and_Time,69. Wednesday,32,val,8737259
+Days_and_Time\70. Thursday\MVI_4603.MOV,Days_and_Time,70. Thursday,33,train,13743492
+Days_and_Time\70. Thursday\MVI_4604.MOV,Days_and_Time,70. Thursday,33,test,13883692
+Days_and_Time\70. Thursday\MVI_4605.MOV,Days_and_Time,70. Thursday,33,train,12757960
+Days_and_Time\70. Thursday\MVI_4606.MOV,Days_and_Time,70. Thursday,33,train,14944004
+Days_and_Time\70. Thursday\MVI_5019.MOV,Days_and_Time,70. Thursday,33,val,11531352
+Days_and_Time\70. Thursday\MVI_5020.MOV,Days_and_Time,70. Thursday,33,train,10860624
+Days_and_Time\70. Thursday\MVI_5021.MOV,Days_and_Time,70. Thursday,33,train,12223448
+Days_and_Time\70. Thursday\MVI_5458.MOV,Days_and_Time,70. Thursday,33,train,11555792
+Days_and_Time\70. Thursday\MVI_5459.MOV,Days_and_Time,70. Thursday,33,train,10553228
+Days_and_Time\70. Thursday\MVI_5460.MOV,Days_and_Time,70. Thursday,33,train,10201104
+Days_and_Time\70. Thursday\MVI_5461.MOV,Days_and_Time,70. Thursday,33,train,11138944
+Days_and_Time\70. Thursday\MVI_9151.MP4,Days_and_Time,70. Thursday,33,test,9851437
+Days_and_Time\70. Thursday\MVI_9152.MP4,Days_and_Time,70. Thursday,33,val,9492367
+Days_and_Time\70. Thursday\MVI_9153.MP4,Days_and_Time,70. Thursday,33,train,8864896
+Days_and_Time\71. Friday\MVI_4607.MOV,Days_and_Time,71. Friday,34,train,12282728
+Days_and_Time\71. Friday\MVI_4608.MOV,Days_and_Time,71. Friday,34,train,13387328
+Days_and_Time\71. Friday\MVI_4609.MOV,Days_and_Time,71. Friday,34,test,12476720
+Days_and_Time\71. Friday\MVI_4610.MOV,Days_and_Time,71. Friday,34,test,11985084
+Days_and_Time\71. Friday\MVI_5022.MOV,Days_and_Time,71. Friday,34,train,9965572
+Days_and_Time\71. Friday\MVI_5023.MOV,Days_and_Time,71. Friday,34,train,10192560
+Days_and_Time\71. Friday\MVI_5026.MOV,Days_and_Time,71. Friday,34,train,10429020
+Days_and_Time\71. Friday\MVI_5462.MOV,Days_and_Time,71. Friday,34,train,9716156
+Days_and_Time\71. Friday\MVI_5463.MOV,Days_and_Time,71. Friday,34,train,11529848
+Days_and_Time\71. Friday\MVI_5464.MOV,Days_and_Time,71. Friday,34,train,11075176
+Days_and_Time\71. Friday\MVI_5465.MOV,Days_and_Time,71. Friday,34,train,12215672
+Days_and_Time\71. Friday\MVI_9154.MP4,Days_and_Time,71. Friday,34,val,11559897
+Days_and_Time\71. Friday\MVI_9155.MP4,Days_and_Time,71. Friday,34,val,9496212
+Days_and_Time\71. Friday\MVI_9156.MP4,Days_and_Time,71. Friday,34,train,9939162
+Days_and_Time\72. Saturday\MVI_4611.MOV,Days_and_Time,72. Saturday,35,train,13353184
+Days_and_Time\72. Saturday\MVI_4612.MOV,Days_and_Time,72. Saturday,35,train,12669996
+Days_and_Time\72. Saturday\MVI_4613.MOV,Days_and_Time,72. Saturday,35,train,12213708
+Days_and_Time\72. Saturday\MVI_4614.MOV,Days_and_Time,72. Saturday,35,train,13250940
+Days_and_Time\72. Saturday\MVI_5027.MOV,Days_and_Time,72. Saturday,35,test,9462336
+Days_and_Time\72. Saturday\MVI_5028.MOV,Days_and_Time,72. Saturday,35,train,10520120
+Days_and_Time\72. Saturday\MVI_5030.MOV,Days_and_Time,72. Saturday,35,val,10079060
+Days_and_Time\72. Saturday\MVI_5466.MOV,Days_and_Time,72. Saturday,35,train,12582320
+Days_and_Time\72. Saturday\MVI_5467.MOV,Days_and_Time,72. Saturday,35,train,11252420
+Days_and_Time\72. Saturday\MVI_5468.MOV,Days_and_Time,72. Saturday,35,train,12060580
+Days_and_Time\72. Saturday\MVI_5469.MOV,Days_and_Time,72. Saturday,35,test,11424016
+Days_and_Time\72. Saturday\MVI_9157.MP4,Days_and_Time,72. Saturday,35,train,9477320
+Days_and_Time\72. Saturday\MVI_9158.MP4,Days_and_Time,72. Saturday,35,val,10061183
+Days_and_Time\72. Saturday\MVI_9159.MP4,Days_and_Time,72. Saturday,35,train,10293683
+Days_and_Time\73. Today\MVI_4615.MOV,Days_and_Time,73. Today,36,train,13845120
+Days_and_Time\73. Today\MVI_4616.MOV,Days_and_Time,73. Today,36,train,11774984
+Days_and_Time\73. Today\MVI_4617.MOV,Days_and_Time,73. Today,36,train,10530160
+Days_and_Time\73. Today\MVI_4618.MOV,Days_and_Time,73. Today,36,train,9737256
+Days_and_Time\73. Today\MVI_5031.MOV,Days_and_Time,73. Today,36,train,10054648
+Days_and_Time\73. Today\MVI_5032.MOV,Days_and_Time,73. Today,36,test,8691228
+Days_and_Time\73. Today\MVI_5033.MOV,Days_and_Time,73. Today,36,train,9716124
+Days_and_Time\73. Today\MVI_5470.MOV,Days_and_Time,73. Today,36,train,9822664
+Days_and_Time\73. Today\MVI_5471.MOV,Days_and_Time,73. Today,36,val,10685200
+Days_and_Time\73. Today\MVI_5472.MOV,Days_and_Time,73. Today,36,train,11216776
+Days_and_Time\73. Today\MVI_5473.MOV,Days_and_Time,73. Today,36,test,8863336
+Days_and_Time\73. Today\MVI_9160.MP4,Days_and_Time,73. Today,36,val,10233532
+Days_and_Time\73. Today\MVI_9161.MP4,Days_and_Time,73. Today,36,train,10306149
+Days_and_Time\73. Today\MVI_9162.MP4,Days_and_Time,73. Today,36,train,8856764
+Electronics\51. Clock\MVI_4524.MOV,Electronics,51. Clock,37,test,17716960
+Electronics\51. Clock\MVI_4525.MOV,Electronics,51. Clock,37,train,23048700
+Electronics\51. Clock\MVI_4526.MOV,Electronics,51. Clock,37,train,19263584
+Electronics\51. Clock\MVI_4527.MOV,Electronics,51. Clock,37,train,20425464
+Electronics\51. Clock\MVI_4959.MOV,Electronics,51. Clock,37,val,12823644
+Electronics\51. Clock\MVI_4960.MOV,Electronics,51. Clock,37,train,12638824
+Electronics\51. Clock\MVI_5379.MOV,Electronics,51. Clock,37,train,12603780
+Electronics\51. Clock\MVI_5380.MOV,Electronics,51. Clock,37,train,14075796
+Electronics\51. Clock\MVI_5381.MOV,Electronics,51. Clock,37,train,13301728
+Electronics\51. Clock\MVI_5382.MOV,Electronics,51. Clock,37,train,16371932
+Electronics\51. Clock\MVI_9091.MP4,Electronics,51. Clock,37,val,12262177
+Electronics\51. Clock\MVI_9092.MP4,Electronics,51. Clock,37,test,12495379
+Electronics\51. Clock\MVI_9093.MP4,Electronics,51. Clock,37,train,12628388
+Electronics\52. Lamp\MVI_4528.MOV,Electronics,52. Lamp,38,val,17451996
+Electronics\52. Lamp\MVI_4529.MOV,Electronics,52. Lamp,38,train,11041568
+Electronics\52. Lamp\MVI_4530.MOV,Electronics,52. Lamp,38,test,12090304
+Electronics\52. Lamp\MVI_4531.MOV,Electronics,52. Lamp,38,train,20904260
+Electronics\52. Lamp\MVI_4961.MOV,Electronics,52. Lamp,38,val,12870236
+Electronics\52. Lamp\MVI_4962.MOV,Electronics,52. Lamp,38,train,13281172
+Electronics\52. Lamp\MVI_4963.MOV,Electronics,52. Lamp,38,train,11718924
+Electronics\52. Lamp\MVI_5383.MOV,Electronics,52. Lamp,38,train,11579872
+Electronics\52. Lamp\MVI_5384.MOV,Electronics,52. Lamp,38,test,11958672
+Electronics\52. Lamp\MVI_5385.MOV,Electronics,52. Lamp,38,train,11563256
+Electronics\52. Lamp\MVI_5386.MOV,Electronics,52. Lamp,38,train,12430112
+Electronics\52. Lamp\MVI_9094.MP4,Electronics,52. Lamp,38,train,9877681
+Electronics\52. Lamp\MVI_9095.MP4,Electronics,52. Lamp,38,train,11761466
+Electronics\52. Lamp\MVI_9096.MP4,Electronics,52. Lamp,38,train,11395778
+Electronics\53. Fan\MVI_4532.MOV,Electronics,53. Fan,39,train,17527308
+Electronics\53. Fan\MVI_4533.MOV,Electronics,53. Fan,39,train,14650776
+Electronics\53. Fan\MVI_4534.MOV,Electronics,53. Fan,39,train,13151704
+Electronics\53. Fan\MVI_4535.MOV,Electronics,53. Fan,39,train,12839080
+Electronics\53. Fan\MVI_4536.MOV,Electronics,53. Fan,39,train,14386172
+Electronics\53. Fan\MVI_4964.MOV,Electronics,53. Fan,39,train,11777100
+Electronics\53. Fan\MVI_4965.MOV,Electronics,53. Fan,39,val,12548928
+Electronics\53. Fan\MVI_4966.MOV,Electronics,53. Fan,39,test,11798512
+Electronics\53. Fan\MVI_5387.MOV,Electronics,53. Fan,39,train,12052308
+Electronics\53. Fan\MVI_5388.MOV,Electronics,53. Fan,39,test,11468020
+Electronics\53. Fan\MVI_5389.MOV,Electronics,53. Fan,39,train,11930420
+Electronics\53. Fan\MVI_5390.MOV,Electronics,53. Fan,39,val,12312032
+Electronics\53. Fan\MVI_9097.MP4,Electronics,53. Fan,39,train,11898976
+Electronics\53. Fan\MVI_9098.MP4,Electronics,53. Fan,39,train,10967508
+Electronics\53. Fan\MVI_9099.MP4,Electronics,53. Fan,39,val,13294075
+Electronics\54. Cell phone\MVI_4537.MOV,Electronics,54. Cell phone,40,train,10553264
+Electronics\54. Cell phone\MVI_4538.MOV,Electronics,54. Cell phone,40,train,10314732
+Electronics\54. Cell phone\MVI_4539.MOV,Electronics,54. Cell phone,40,train,11612800
+Electronics\54. Cell phone\MVI_4540.MOV,Electronics,54. Cell phone,40,train,9692928
+Electronics\54. Cell phone\MVI_4967.MOV,Electronics,54. Cell phone,40,val,12220164
+Electronics\54. Cell phone\MVI_4968.MOV,Electronics,54. Cell phone,40,train,13147256
+Electronics\54. Cell phone\MVI_4969.MOV,Electronics,54. Cell phone,40,train,15273772
+Electronics\54. Cell phone\MVI_5391.MOV,Electronics,54. Cell phone,40,train,9827108
+Electronics\54. Cell phone\MVI_5392.MOV,Electronics,54. Cell phone,40,val,11318040
+Electronics\54. Cell phone\MVI_5393.MOV,Electronics,54. Cell phone,40,train,11383360
+Electronics\54. Cell phone\MVI_5394.MOV,Electronics,54. Cell phone,40,test,12860700
+Electronics\54. Cell phone\MVI_9100.MP4,Electronics,54. Cell phone,40,test,11398778
+Electronics\54. Cell phone\MVI_9101.MP4,Electronics,54. Cell phone,40,train,10492518
+Electronics\54. Cell phone\MVI_9102.MP4,Electronics,54. Cell phone,40,train,9871536
+Electronics\55. Computer\MVI_4541.MOV,Electronics,55. Computer,41,train,18066652
+Electronics\55. Computer\MVI_4542.MOV,Electronics,55. Computer,41,test,17497444
+Electronics\55. Computer\MVI_4543.MOV,Electronics,55. Computer,41,train,15304716
+Electronics\55. Computer\MVI_4544.MOV,Electronics,55. Computer,41,train,17473300
+Electronics\55. Computer\MVI_4970.MOV,Electronics,55. Computer,41,train,13988804
+Electronics\55. Computer\MVI_4971.MOV,Electronics,55. Computer,41,val,11963168
+Electronics\55. Computer\MVI_4972.MOV,Electronics,55. Computer,41,train,15074120
+Electronics\55. Computer\MVI_5395.MOV,Electronics,55. Computer,41,train,14259816
+Electronics\55. Computer\MVI_5396.MOV,Electronics,55. Computer,41,train,14724352
+Electronics\55. Computer\MVI_5397.MOV,Electronics,55. Computer,41,train,15106444
+Electronics\55. Computer\MVI_5398.MOV,Electronics,55. Computer,41,train,14505112
+Electronics\55. Computer\MVI_9103.MP4,Electronics,55. Computer,41,test,13412228
+Electronics\55. Computer\MVI_9104.MP4,Electronics,55. Computer,41,train,13165121
+Electronics\55. Computer\MVI_9105.MP4,Electronics,55. Computer,41,val,14931144
+Electronics\56. Laptop\MVI_4545.MOV,Electronics,56. Laptop,42,val,14336652
+Electronics\56. Laptop\MVI_4546.MOV,Electronics,56. Laptop,42,train,16602244
+Electronics\56. Laptop\MVI_4547.MOV,Electronics,56. Laptop,42,train,16888740
+Electronics\56. Laptop\MVI_4548.MOV,Electronics,56. Laptop,42,train,16467492
+Electronics\56. Laptop\MVI_4973.MOV,Electronics,56. Laptop,42,train,13963032
+Electronics\56. Laptop\MVI_4974.MOV,Electronics,56. Laptop,42,test,12392616
+Electronics\56. Laptop\MVI_4975.MOV,Electronics,56. Laptop,42,train,11547960
+Electronics\56. Laptop\MVI_5399.MOV,Electronics,56. Laptop,42,test,12971132
+Electronics\56. Laptop\MVI_5400.MOV,Electronics,56. Laptop,42,val,11919320
+Electronics\56. Laptop\MVI_5401.MOV,Electronics,56. Laptop,42,train,13260300
+Electronics\56. Laptop\MVI_5402.MOV,Electronics,56. Laptop,42,train,13268368
+Electronics\56. Laptop\MVI_9106.MP4,Electronics,56. Laptop,42,train,13887091
+Electronics\56. Laptop\MVI_9107.MP4,Electronics,56. Laptop,42,train,12353761
+Electronics\56. Laptop\MVI_9108.MP4,Electronics,56. Laptop,42,train,12603993
+Electronics\57. Screen\MVI_4549.MOV,Electronics,57. Screen,43,test,14805840
+Electronics\57. Screen\MVI_4550.MOV,Electronics,57. Screen,43,train,15790100
+Electronics\57. Screen\MVI_4551.MOV,Electronics,57. Screen,43,train,14576664
+Electronics\57. Screen\MVI_4552.MOV,Electronics,57. Screen,43,val,14887976
+Electronics\57. Screen\MVI_4976.MOV,Electronics,57. Screen,43,train,12981828
+Electronics\57. Screen\MVI_4977.MOV,Electronics,57. Screen,43,train,13399336
+Electronics\57. Screen\MVI_4978.MOV,Electronics,57. Screen,43,train,12382912
+Electronics\57. Screen\MVI_5403.MOV,Electronics,57. Screen,43,val,13655336
+Electronics\57. Screen\MVI_5404.MOV,Electronics,57. Screen,43,train,14053128
+Electronics\57. Screen\MVI_5405.MOV,Electronics,57. Screen,43,train,13436100
+Electronics\57. Screen\MVI_5406.MOV,Electronics,57. Screen,43,train,13631436
+Electronics\57. Screen\MVI_9110.MP4,Electronics,57. Screen,43,test,10574467
+Electronics\57. Screen\MVI_9111.MP4,Electronics,57. Screen,43,train,10846870
+Electronics\57. Screen\MVI_9112.MP4,Electronics,57. Screen,43,train,9753574
+Electronics\58. Camera\MVI_4553.MOV,Electronics,58. Camera,44,train,10644092
+Electronics\58. Camera\MVI_4554.MOV,Electronics,58. Camera,44,train,10527440
+Electronics\58. Camera\MVI_4555.MOV,Electronics,58. Camera,44,test,11220116
+Electronics\58. Camera\MVI_4556.MOV,Electronics,58. Camera,44,train,10191940
+Electronics\58. Camera\MVI_4979.MOV,Electronics,58. Camera,44,train,10209564
+Electronics\58. Camera\MVI_4980.MOV,Electronics,58. Camera,44,train,10219100
+Electronics\58. Camera\MVI_4981.MOV,Electronics,58. Camera,44,test,11580444
+Electronics\58. Camera\MVI_5407.MOV,Electronics,58. Camera,44,train,11076856
+Electronics\58. Camera\MVI_5408.MOV,Electronics,58. Camera,44,val,11262152
+Electronics\58. Camera\MVI_5409.MOV,Electronics,58. Camera,44,train,13351788
+Electronics\58. Camera\MVI_5410.MOV,Electronics,58. Camera,44,val,14120396
+Electronics\58. Camera\MVI_9113.MP4,Electronics,58. Camera,44,train,10370436
+Electronics\58. Camera\MVI_9114.MP4,Electronics,58. Camera,44,train,9991324
+Electronics\58. Camera\MVI_9115.MP4,Electronics,58. Camera,44,train,8722277
+Electronics\59. Television\MVI_4557.MOV,Electronics,59. Television,45,train,12852928
+Electronics\59. Television\MVI_4558.MOV,Electronics,59. Television,45,val,12814532
+Electronics\59. Television\MVI_4559.MOV,Electronics,59. Television,45,test,10189216
+Electronics\59. Television\MVI_4560.MOV,Electronics,59. Television,45,train,14895536
+Electronics\59. Television\MVI_4982.MOV,Electronics,59. Television,45,train,11491580
+Electronics\59. Television\MVI_4985.MOV,Electronics,59. Television,45,train,12659564
+Electronics\59. Television\MVI_4986.MOV,Electronics,59. Television,45,train,10866520
+Electronics\59. Television\MVI_5412.MOV,Electronics,59. Television,45,train,9481208
+Electronics\59. Television\MVI_5413.MOV,Electronics,59. Television,45,train,11899308
+Electronics\59. Television\MVI_5414.MOV,Electronics,59. Television,45,test,11662852
+Electronics\59. Television\MVI_5415.MOV,Electronics,59. Television,45,train,11034360
+Electronics\59. Television\MVI_9116.MP4,Electronics,59. Television,45,train,8761010
+Electronics\59. Television\MVI_9117.MP4,Electronics,59. Television,45,val,8884395
+Electronics\59. Television\MVI_9118.MP4,Electronics,59. Television,45,train,8983121
+Electronics\60. Radio\MVI_4561.MOV,Electronics,60. Radio,46,val,14390232
+Electronics\60. Radio\MVI_4562.MOV,Electronics,60. Radio,46,train,11447624
+Electronics\60. Radio\MVI_4563.MOV,Electronics,60. Radio,46,train,12166140
+Electronics\60. Radio\MVI_4564.MOV,Electronics,60. Radio,46,train,13076468
+Electronics\60. Radio\MVI_4987.MOV,Electronics,60. Radio,46,test,9990072
+Electronics\60. Radio\MVI_4988.MOV,Electronics,60. Radio,46,test,9829344
+Electronics\60. Radio\MVI_4989.MOV,Electronics,60. Radio,46,train,9764856
+Electronics\60. Radio\MVI_5416.MOV,Electronics,60. Radio,46,train,11375256
+Electronics\60. Radio\MVI_5417.MOV,Electronics,60. Radio,46,val,12064168
+Electronics\60. Radio\MVI_5418.MOV,Electronics,60. Radio,46,train,11150500
+Electronics\60. Radio\MVI_5419.MOV,Electronics,60. Radio,46,train,11195000
+Electronics\60. Radio\MVI_9119.MP4,Electronics,60. Radio,46,train,8715387
+Electronics\60. Radio\MVI_9120.MP4,Electronics,60. Radio,46,train,8330622
+Electronics\60. Radio\MVI_9121.MP4,Electronics,60. Radio,46,train,8565555
+Greetings\48. Hello\MVI_0029.MOV,Greetings,48. Hello,47,train,13712892
+Greetings\48. Hello\MVI_0030.MOV,Greetings,48. Hello,47,train,16163032
+Greetings\48. Hello\MVI_0031.MOV,Greetings,48. Hello,47,train,14024412
+Greetings\48. Hello\MVI_0032.MOV,Greetings,48. Hello,47,val,13252996
+Greetings\48. Hello\MVI_0037.MOV,Greetings,48. Hello,47,train,11087200
+Greetings\48. Hello\MVI_0038.MOV,Greetings,48. Hello,47,train,12696984
+Greetings\48. Hello\MVI_0039.MOV,Greetings,48. Hello,47,train,11769880
+Greetings\48. Hello\MVI_0089.MOV,Greetings,48. Hello,47,train,15163632
+Greetings\48. Hello\MVI_0090.MOV,Greetings,48. Hello,47,train,15525968
+Greetings\48. Hello\MVI_0091.MOV,Greetings,48. Hello,47,test,17840700
+Greetings\48. Hello\MVI_9914.MOV,Greetings,48. Hello,47,test,11887660
+Greetings\48. Hello\MVI_9915.MOV,Greetings,48. Hello,47,train,11495296
+Greetings\48. Hello\MVI_9916.MOV,Greetings,48. Hello,47,train,11123560
+Greetings\48. Hello\MVI_9917.MOV,Greetings,48. Hello,47,train,10892712
+Greetings\48. Hello\MVI_9954.MOV,Greetings,48. Hello,47,val,15017704
+Greetings\48. Hello\MVI_9955.MOV,Greetings,48. Hello,47,val,18231040
+Greetings\48. Hello\MVI_9956.MOV,Greetings,48. Hello,47,test,16523716
+Greetings\48. Hello\MVI_9957.MOV,Greetings,48. Hello,47,train,17157044
+Greetings\48. Hello\MVI_9982.MOV,Greetings,48. Hello,47,train,11152784
+Greetings\48. Hello\MVI_9983.MOV,Greetings,48. Hello,47,train,11626756
+Greetings\48. Hello\MVI_9984.MOV,Greetings,48. Hello,47,test,10178964
+Greetings\49. How are you\MVI_0033.MOV,Greetings,49. How are you,48,train,17783072
+Greetings\49. How are you\MVI_0034.MOV,Greetings,49. How are you,48,val,20164592
+Greetings\49. How are you\MVI_0035.MOV,Greetings,49. How are you,48,test,21226160
+Greetings\49. How are you\MVI_0036.MOV,Greetings,49. How are you,48,train,21012572
+Greetings\49. How are you\MVI_0040.MOV,Greetings,49. How are you,48,train,13717040
+Greetings\49. How are you\MVI_0041.MOV,Greetings,49. How are you,48,train,16075112
+Greetings\49. How are you\MVI_0042.MOV,Greetings,49. How are you,48,val,14966400
+Greetings\49. How are you\MVI_0092.MOV,Greetings,49. How are you,48,train,18421760
+Greetings\49. How are you\MVI_0093.MOV,Greetings,49. How are you,48,train,22458744
+Greetings\49. How are you\MVI_0094.MOV,Greetings,49. How are you,48,train,21208116
+Greetings\49. How are you\MVI_9918.MOV,Greetings,49. How are you,48,train,14978068
+Greetings\49. How are you\MVI_9919.MOV,Greetings,49. How are you,48,train,15872056
+Greetings\49. How are you\MVI_9920.MOV,Greetings,49. How are you,48,test,15604660
+Greetings\49. How are you\MVI_9921.MOV,Greetings,49. How are you,48,val,14496220
+Greetings\49. How are you\MVI_9959.MOV,Greetings,49. How are you,48,test,19364088
+Greetings\49. How are you\MVI_9960.MOV,Greetings,49. How are you,48,train,18821164
+Greetings\49. How are you\MVI_9961.MOV,Greetings,49. How are you,48,train,20039748
+Greetings\49. How are you\MVI_9962.MOV,Greetings,49. How are you,48,train,20408596
+Greetings\49. How are you\MVI_9985.MOV,Greetings,49. How are you,48,train,14960424
+Greetings\49. How are you\MVI_9986.MOV,Greetings,49. How are you,48,train,15023992
+Greetings\49. How are you\MVI_9987.MOV,Greetings,49. How are you,48,train,15084316
+Greetings\50. Alright\MVI_0037.MOV,Greetings,50. Alright,49,train,16096940
+Greetings\50. Alright\MVI_0038.MOV,Greetings,50. Alright,49,train,18489448
+Greetings\50. Alright\MVI_0039.MOV,Greetings,50. Alright,49,train,17655976
+Greetings\50. Alright\MVI_0040.MOV,Greetings,50. Alright,49,val,17686404
+Greetings\50. Alright\MVI_0043.MOV,Greetings,50. Alright,49,train,12645996
+Greetings\50. Alright\MVI_0044.MOV,Greetings,50. Alright,49,train,13107204
+Greetings\50. Alright\MVI_0045.MOV,Greetings,50. Alright,49,val,14423036
+Greetings\50. Alright\MVI_0095.MOV,Greetings,50. Alright,49,train,14019940
+Greetings\50. Alright\MVI_0096.MOV,Greetings,50. Alright,49,train,18469712
+Greetings\50. Alright\MVI_0097.MOV,Greetings,50. Alright,49,train,19412872
+Greetings\50. Alright\MVI_9923.MOV,Greetings,50. Alright,49,train,12045128
+Greetings\50. Alright\MVI_9924.MOV,Greetings,50. Alright,49,test,12177352
+Greetings\50. Alright\MVI_9925.MOV,Greetings,50. Alright,49,val,11702908
+Greetings\50. Alright\MVI_9926.MOV,Greetings,50. Alright,49,train,11339420
+Greetings\50. Alright\MVI_9963.MOV,Greetings,50. Alright,49,train,16463604
+Greetings\50. Alright\MVI_9964.MOV,Greetings,50. Alright,49,train,18620960
+Greetings\50. Alright\MVI_9965.MOV,Greetings,50. Alright,49,test,16728524
+Greetings\50. Alright\MVI_9966.MOV,Greetings,50. Alright,49,train,15564784
+Greetings\50. Alright\MVI_9988.MOV,Greetings,50. Alright,49,train,11582224
+Greetings\50. Alright\MVI_9989.MOV,Greetings,50. Alright,49,train,13194580
+Greetings\50. Alright\MVI_9990.MOV,Greetings,50. Alright,49,test,11812500
+Greetings\51. Good Morning\MVI_0042.MOV,Greetings,51. Good Morning,50,train,18834564
+Greetings\51. Good Morning\MVI_0043.MOV,Greetings,51. Good Morning,50,test,18284864
+Greetings\51. Good Morning\MVI_0044.MOV,Greetings,51. Good Morning,50,train,18754164
+Greetings\51. Good Morning\MVI_0045.MOV,Greetings,51. Good Morning,50,train,19834888
+Greetings\51. Good Morning\MVI_0046.MOV,Greetings,51. Good Morning,50,test,14090892
+Greetings\51. Good Morning\MVI_0047.MOV,Greetings,51. Good Morning,50,test,13386028
+Greetings\51. Good Morning\MVI_0048.MOV,Greetings,51. Good Morning,50,train,9008624
+Greetings\51. Good Morning\MVI_0098.MOV,Greetings,51. Good Morning,50,train,14729828
+Greetings\51. Good Morning\MVI_0099.MOV,Greetings,51. Good Morning,50,val,14863564
+Greetings\51. Good Morning\MVI_0100.MOV,Greetings,51. Good Morning,50,train,14161452
+Greetings\51. Good Morning\MVI_9932.MOV,Greetings,51. Good Morning,50,train,12642280
+Greetings\51. Good Morning\MVI_9933.MOV,Greetings,51. Good Morning,50,train,11981744
+Greetings\51. Good Morning\MVI_9934.MOV,Greetings,51. Good Morning,50,val,12547096
+Greetings\51. Good Morning\MVI_9935.MOV,Greetings,51. Good Morning,50,train,10835472
+Greetings\51. Good Morning\MVI_9968.MOV,Greetings,51. Good Morning,50,train,14908976
+Greetings\51. Good Morning\MVI_9969.MOV,Greetings,51. Good Morning,50,train,17269852
+Greetings\51. Good Morning\MVI_9970.MOV,Greetings,51. Good Morning,50,train,17746444
+Greetings\51. Good Morning\MVI_9971.MOV,Greetings,51. Good Morning,50,train,16063788
+Greetings\51. Good Morning\MVI_9991.MOV,Greetings,51. Good Morning,50,val,12696444
+Greetings\51. Good Morning\MVI_9992.MOV,Greetings,51. Good Morning,50,val,12716592
+Greetings\51. Good Morning\MVI_9993.MOV,Greetings,51. Good Morning,50,train,14055496
+Greetings\52. Good afternoon\MVI_0046.MOV,Greetings,52. Good afternoon,51,train,19870724
+Greetings\52. Good afternoon\MVI_0047.MOV,Greetings,52. Good afternoon,51,train,18951616
+Greetings\52. Good afternoon\MVI_0048.MOV,Greetings,52. Good afternoon,51,val,18889788
+Greetings\52. Good afternoon\MVI_0049.MOV,Greetings,52. Good afternoon,51,val,12419776
+Greetings\52. Good afternoon\MVI_0050.MOV,Greetings,52. Good afternoon,51,test,12820960
+Greetings\52. Good afternoon\MVI_0050_ (1).MOV,Greetings,52. Good afternoon,51,train,19217080
+Greetings\52. Good afternoon\MVI_0050_ (2).MOV,Greetings,52. Good afternoon,51,train,19852512
+Greetings\52. Good afternoon\MVI_0051.MOV,Greetings,52. Good afternoon,51,test,12670836
+Greetings\52. Good afternoon\MVI_0101.MOV,Greetings,52. Good afternoon,51,test,15395292
+Greetings\52. Good afternoon\MVI_0102.MOV,Greetings,52. Good afternoon,51,train,16766340
+Greetings\52. Good afternoon\MVI_0103.MOV,Greetings,52. Good afternoon,51,train,16341852
+Greetings\52. Good afternoon\MVI_9936.MOV,Greetings,52. Good afternoon,51,train,15124680
+Greetings\52. Good afternoon\MVI_9937.MOV,Greetings,52. Good afternoon,51,train,12423052
+Greetings\52. Good afternoon\MVI_9938.MOV,Greetings,52. Good afternoon,51,train,11519400
+Greetings\52. Good afternoon\MVI_9939.MOV,Greetings,52. Good afternoon,51,train,10414124
+Greetings\52. Good afternoon\MVI_9972.MOV,Greetings,52. Good afternoon,51,train,13595220
+Greetings\52. Good afternoon\MVI_9973.MOV,Greetings,52. Good afternoon,51,train,13603548
+Greetings\52. Good afternoon\MVI_9974.MOV,Greetings,52. Good afternoon,51,train,16662268
+Greetings\52. Good afternoon\MVI_9975.MOV,Greetings,52. Good afternoon,51,val,13171044
+Greetings\52. Good afternoon\MVI_9994.MOV,Greetings,52. Good afternoon,51,test,12089632
+Greetings\52. Good afternoon\MVI_9995.MOV,Greetings,52. Good afternoon,51,train,13904400
+Greetings\52. Good afternoon\MVI_9996.MOV,Greetings,52. Good afternoon,51,train,13136836
+Greetings\53. Good evening\MVI_0001.MOV,Greetings,53. Good evening,52,train,12004484
+Greetings\53. Good evening\MVI_0052.MOV,Greetings,53. Good evening,52,train,11742468
+Greetings\53. Good evening\MVI_0053.MOV,Greetings,53. Good evening,52,train,14339776
+Greetings\53. Good evening\MVI_0054.MOV,Greetings,53. Good evening,52,train,14301260
+Greetings\53. Good evening\MVI_0055.MOV,Greetings,53. Good evening,52,val,18629924
+Greetings\53. Good evening\MVI_005_4 (1).MOV,Greetings,53. Good evening,52,test,18273152
+Greetings\53. Good evening\MVI_005_4 (2).MOV,Greetings,53. Good evening,52,train,19636972
+Greetings\53. Good evening\MVI_005_4 (3).MOV,Greetings,53. Good evening,52,val,21039632
+Greetings\53. Good evening\MVI_0105.MOV,Greetings,53. Good evening,52,train,15883356
+Greetings\53. Good evening\MVI_0106.MOV,Greetings,53. Good evening,52,train,17008940
+Greetings\53. Good evening\MVI_0107.MOV,Greetings,53. Good evening,52,val,16752008
+Greetings\53. Good evening\MVI_9940.MOV,Greetings,53. Good evening,52,test,12609328
+Greetings\53. Good evening\MVI_9941.MOV,Greetings,53. Good evening,52,test,13273068
+Greetings\53. Good evening\MVI_9942.MOV,Greetings,53. Good evening,52,train,12820216
+Greetings\53. Good evening\MVI_9943.MOV,Greetings,53. Good evening,52,test,14905052
+Greetings\53. Good evening\MVI_9976.MOV,Greetings,53. Good evening,52,train,17151592
+Greetings\53. Good evening\MVI_9977.MOV,Greetings,53. Good evening,52,train,17772916
+Greetings\53. Good evening\MVI_9978.MOV,Greetings,53. Good evening,52,train,17162092
+Greetings\53. Good evening\MVI_9979.MOV,Greetings,53. Good evening,52,train,16094804
+Greetings\53. Good evening\MVI_9998.MOV,Greetings,53. Good evening,52,train,11826136
+Greetings\53. Good evening\MVI_9999.MOV,Greetings,53. Good evening,52,train,12258092
+Greetings\54. Good night\MVI_0002.MOV,Greetings,54. Good night,53,train,12249112
+Greetings\54. Good night\MVI_0003.MOV,Greetings,54. Good night,53,train,13043460
+Greetings\54. Good night\MVI_0004.MOV,Greetings,54. Good night,53,train,13078492
+Greetings\54. Good night\MVI_0055.MOV,Greetings,54. Good night,53,val,12391080
+Greetings\54. Good night\MVI_0056.MOV,Greetings,54. Good night,53,test,13647468
+Greetings\54. Good night\MVI_0057.MOV,Greetings,54. Good night,53,test,13083788
+Greetings\54. Good night\MVI_0057_.MOV,Greetings,54. Good night,53,train,19968736
+Greetings\54. Good night\MVI_0058.MOV,Greetings,54. Good night,53,train,20040184
+Greetings\54. Good night\MVI_0059.MOV,Greetings,54. Good night,53,train,20396176
+Greetings\54. Good night\MVI_005_6.MOV,Greetings,54. Good night,53,train,17823424
+Greetings\54. Good night\MVI_0108.MOV,Greetings,54. Good night,53,test,16237872
+Greetings\54. Good night\MVI_0109.MOV,Greetings,54. Good night,53,train,18034828
+Greetings\54. Good night\MVI_0110.MOV,Greetings,54. Good night,53,val,17394664
+Greetings\54. Good night\MVI_9944.MOV,Greetings,54. Good night,53,train,12235448
+Greetings\54. Good night\MVI_9945.MOV,Greetings,54. Good night,53,train,12863016
+Greetings\54. Good night\MVI_9946.MOV,Greetings,54. Good night,53,train,12450940
+Greetings\54. Good night\MVI_9947.MOV,Greetings,54. Good night,53,train,13053408
+Greetings\54. Good night\MVI_9980.MOV,Greetings,54. Good night,53,train,18189916
+Greetings\54. Good night\MVI_9981.MOV,Greetings,54. Good night,53,val,14532164
+Greetings\54. Good night\MVI_9982.MOV,Greetings,54. Good night,53,train,18201676
+Greetings\54. Good night\MVI_9983.MOV,Greetings,54. Good night,53,train,14444900
+Greetings\55. Thank you\MVI_0006.MOV,Greetings,55. Thank you,54,test,11611048
+Greetings\55. Thank you\MVI_0007.MOV,Greetings,55. Thank you,54,train,12163160
+Greetings\55. Thank you\MVI_0008.MOV,Greetings,55. Thank you,54,train,12309444
+Greetings\55. Thank you\MVI_0058.MOV,Greetings,55. Thank you,54,train,13534252
+Greetings\55. Thank you\MVI_0059.MOV,Greetings,55. Thank you,54,val,12591164
+Greetings\55. Thank you\MVI_0060.MOV,Greetings,55. Thank you,54,train,12557288
+Greetings\55. Thank you\MVI_0060_.MOV,Greetings,55. Thank you,54,train,17902844
+Greetings\55. Thank you\MVI_0061.MOV,Greetings,55. Thank you,54,train,17957432
+Greetings\55. Thank you\MVI_0062.MOV,Greetings,55. Thank you,54,val,17267580
+Greetings\55. Thank you\MVI_0063.MOV,Greetings,55. Thank you,54,train,19074660
+Greetings\55. Thank you\MVI_0111.MOV,Greetings,55. Thank you,54,test,13864876
+Greetings\55. Thank you\MVI_0112.MOV,Greetings,55. Thank you,54,train,16705156
+Greetings\55. Thank you\MVI_0113.MOV,Greetings,55. Thank you,54,train,17971356
+Greetings\55. Thank you\MVI_9948.MOV,Greetings,55. Thank you,54,train,11864028
+Greetings\55. Thank you\MVI_9949.MOV,Greetings,55. Thank you,54,train,12565248
+Greetings\55. Thank you\MVI_9950.MOV,Greetings,55. Thank you,54,train,11518864
+Greetings\55. Thank you\MVI_9951.MOV,Greetings,55. Thank you,54,test,12040436
+Greetings\55. Thank you\MVI_9984.MOV,Greetings,55. Thank you,54,train,13244668
+Greetings\55. Thank you\MVI_9985.MOV,Greetings,55. Thank you,54,val,14458472
+Greetings\55. Thank you\MVI_9986.MOV,Greetings,55. Thank you,54,train,12043648
+Greetings\55. Thank you\MVI_9987.MOV,Greetings,55. Thank you,54,train,13638524
+Greetings\56. Pleased\MVI_0009.MOV,Greetings,56. Pleased,55,train,12262732
+Greetings\56. Pleased\MVI_0010.MOV,Greetings,56. Pleased,55,val,11746416
+Greetings\56. Pleased\MVI_0011.MOV,Greetings,56. Pleased,55,val,11570928
+Greetings\56. Pleased\MVI_0061.MOV,Greetings,56. Pleased,55,train,12453476
+Greetings\56. Pleased\MVI_0062.MOV,Greetings,56. Pleased,55,train,11459552
+Greetings\56. Pleased\MVI_0063.MOV,Greetings,56. Pleased,55,train,12569200
+Greetings\56. Pleased\MVI_0065.MOV,Greetings,56. Pleased,55,train,18097368
+Greetings\56. Pleased\MVI_0066.MOV,Greetings,56. Pleased,55,train,17668432
+Greetings\56. Pleased\MVI_0067.MOV,Greetings,56. Pleased,55,test,16903128
+Greetings\56. Pleased\MVI_0068.MOV,Greetings,56. Pleased,55,train,19075048
+Greetings\56. Pleased\MVI_0114.MOV,Greetings,56. Pleased,55,test,13743092
+Greetings\56. Pleased\MVI_0115.MOV,Greetings,56. Pleased,55,test,16665660
+Greetings\56. Pleased\MVI_0116.MOV,Greetings,56. Pleased,55,train,14508756
+Greetings\56. Pleased\MVI_9952.MOV,Greetings,56. Pleased,55,train,11610072
+Greetings\56. Pleased\MVI_9953.MOV,Greetings,56. Pleased,55,train,10669200
+Greetings\56. Pleased\MVI_9954.MOV,Greetings,56. Pleased,55,train,10270452
+Greetings\56. Pleased\MVI_9955.MOV,Greetings,56. Pleased,55,val,9558380
+Greetings\56. Pleased\MVI_9988.MOV,Greetings,56. Pleased,55,train,13781052
+Greetings\56. Pleased\MVI_9989.MOV,Greetings,56. Pleased,55,train,16958104
+Greetings\56. Pleased\MVI_9990.MOV,Greetings,56. Pleased,55,train,14962320
+Greetings\56. Pleased\MVI_9991.MOV,Greetings,56. Pleased,55,train,14514224
+Home\24. Table\MVI_4344.MOV,Home,24. Table,56,train,11838164
+Home\24. Table\MVI_4345.MOV,Home,24. Table,56,train,10837820
+Home\24. Table\MVI_4346.MOV,Home,24. Table,56,test,10521472
+Home\24. Table\MVI_4347.MOV,Home,24. Table,56,test,9990020
+Home\24. Table\MVI_4869.MOV,Home,24. Table,56,train,10045100
+Home\24. Table\MVI_4870.MOV,Home,24. Table,56,train,11859660
+Home\24. Table\MVI_4871.MOV,Home,24. Table,56,train,10721264
+Home\24. Table\MVI_8750.MP4,Home,24. Table,56,train,10450312
+Home\24. Table\MVI_8751.MP4,Home,24. Table,56,train,9989147
+Home\24. Table\MVI_8752.MP4,Home,24. Table,56,val,10019341
+Home\24. Table\MVI_8753.MP4,Home,24. Table,56,val,8030656
+Home\24. Table\MVI_9001.MP4,Home,24. Table,56,train,9758185
+Home\24. Table\MVI_9002.MP4,Home,24. Table,56,train,9979976
+Home\24. Table\MVI_9003.MP4,Home,24. Table,56,train,9990303
+Home\25. Chair\MVI_4348.MOV,Home,25. Chair,57,test,11086816
+Home\25. Chair\MVI_4349.MOV,Home,25. Chair,57,train,8869388
+Home\25. Chair\MVI_4350.MOV,Home,25. Chair,57,train,10474568
+Home\25. Chair\MVI_4351.MOV,Home,25. Chair,57,train,9404696
+Home\25. Chair\MVI_4872.MOV,Home,25. Chair,57,train,11362592
+Home\25. Chair\MVI_4873.MOV,Home,25. Chair,57,train,11975256
+Home\25. Chair\MVI_4874.MOV,Home,25. Chair,57,val,11137656
+Home\25. Chair\MVI_8754.MP4,Home,25. Chair,57,train,9172225
+Home\25. Chair\MVI_8755.MP4,Home,25. Chair,57,test,10106444
+Home\25. Chair\MVI_8756.MP4,Home,25. Chair,57,train,8127106
+Home\25. Chair\MVI_8757.MP4,Home,25. Chair,57,train,9057920
+Home\25. Chair\MVI_9004.MP4,Home,25. Chair,57,train,8346662
+Home\25. Chair\MVI_9005.MP4,Home,25. Chair,57,val,7410592
+Home\25. Chair\MVI_9006.MP4,Home,25. Chair,57,train,9646916
+Home\26. Bed\MVI_4352.MOV,Home,26. Bed,58,train,11796752
+Home\26. Bed\MVI_4353.MOV,Home,26. Bed,58,train,11956176
+Home\26. Bed\MVI_4354.MOV,Home,26. Bed,58,test,12873164
+Home\26. Bed\MVI_4355.MOV,Home,26. Bed,58,train,12977108
+Home\26. Bed\MVI_4875.MOV,Home,26. Bed,58,train,12557536
+Home\26. Bed\MVI_4876.MOV,Home,26. Bed,58,val,14705352
+Home\26. Bed\MVI_4877.MOV,Home,26. Bed,58,test,15182112
+Home\26. Bed\MVI_8758.MP4,Home,26. Bed,58,train,10111828
+Home\26. Bed\MVI_8759.MP4,Home,26. Bed,58,train,10002079
+Home\26. Bed\MVI_8760.MP4,Home,26. Bed,58,train,10118743
+Home\26. Bed\MVI_8761.MP4,Home,26. Bed,58,train,10001741
+Home\26. Bed\MVI_9007.MP4,Home,26. Bed,58,train,11406935
+Home\26. Bed\MVI_9008.MP4,Home,26. Bed,58,val,12468458
+Home\26. Bed\MVI_9009.MP4,Home,26. Bed,58,train,10839806
+Home\27. Dream\MVI_4357.MOV,Home,27. Dream,59,train,16085936
+Home\27. Dream\MVI_4359.MOV,Home,27. Dream,59,train,17641724
+Home\27. Dream\MVI_4360.MOV,Home,27. Dream,59,train,16558740
+Home\27. Dream\MVI_4361.MOV,Home,27. Dream,59,val,17603228
+Home\27. Dream\MVI_4878.MOV,Home,27. Dream,59,train,14235012
+Home\27. Dream\MVI_4879.MOV,Home,27. Dream,59,test,16771908
+Home\27. Dream\MVI_4880.MOV,Home,27. Dream,59,train,15675992
+Home\27. Dream\MVI_8762.MP4,Home,27. Dream,59,train,14490381
+Home\27. Dream\MVI_8763.MP4,Home,27. Dream,59,test,14125900
+Home\27. Dream\MVI_8764.MP4,Home,27. Dream,59,train,14002567
+Home\27. Dream\MVI_8765.MP4,Home,27. Dream,59,val,16244951
+Home\27. Dream\MVI_9010.MP4,Home,27. Dream,59,train,11991128
+Home\27. Dream\MVI_9011.MP4,Home,27. Dream,59,train,12239047
+Home\27. Dream\MVI_9012.MP4,Home,27. Dream,59,train,13172298
+Home\28. Window\MVI_4362.MOV,Home,28. Window,60,test,18110396
+Home\28. Window\MVI_4363.MOV,Home,28. Window,60,train,15223584
+Home\28. Window\MVI_4364.MOV,Home,28. Window,60,train,18949160
+Home\28. Window\MVI_4365.MOV,Home,28. Window,60,train,17890840
+Home\28. Window\MVI_4881.MOV,Home,28. Window,60,val,15758000
+Home\28. Window\MVI_4882.MOV,Home,28. Window,60,train,14591872
+Home\28. Window\MVI_4883.MOV,Home,28. Window,60,train,14501892
+Home\28. Window\MVI_8766.MP4,Home,28. Window,60,train,15295818
+Home\28. Window\MVI_8767.MP4,Home,28. Window,60,train,15061579
+Home\28. Window\MVI_8768.MP4,Home,28. Window,60,val,15891016
+Home\28. Window\MVI_8769.MP4,Home,28. Window,60,test,15526921
+Home\28. Window\MVI_9013.MP4,Home,28. Window,60,train,10831156
+Home\28. Window\MVI_9014.MP4,Home,28. Window,60,train,12349592
+Home\28. Window\MVI_9015.MP4,Home,28. Window,60,train,13188014
+Home\29. Door\MVI_4366.MOV,Home,29. Door,61,train,12195656
+Home\29. Door\MVI_4367.MOV,Home,29. Door,61,val,11368304
+Home\29. Door\MVI_4368.MOV,Home,29. Door,61,train,10977944
+Home\29. Door\MVI_4369.MOV,Home,29. Door,61,test,12658708
+Home\29. Door\MVI_4884.MOV,Home,29. Door,61,test,9262740
+Home\29. Door\MVI_4885.MOV,Home,29. Door,61,train,10833608
+Home\29. Door\MVI_4886.MOV,Home,29. Door,61,train,10845844
+Home\29. Door\MVI_8770.MP4,Home,29. Door,61,val,11757361
+Home\29. Door\MVI_8771.MP4,Home,29. Door,61,train,13746760
+Home\29. Door\MVI_8772.MP4,Home,29. Door,61,train,11639396
+Home\29. Door\MVI_8773.MP4,Home,29. Door,61,train,10591624
+Home\29. Door\MVI_9016.MP4,Home,29. Door,61,train,10460734
+Home\29. Door\MVI_9017.MP4,Home,29. Door,61,train,10446115
+Home\29. Door\MVI_9018.MP4,Home,29. Door,61,train,11509412
+Home\30. Bedroom\MVI_4370.MOV,Home,30. Bedroom,62,train,18790084
+Home\30. Bedroom\MVI_4371.MOV,Home,30. Bedroom,62,train,18062908
+Home\30. Bedroom\MVI_4372.MOV,Home,30. Bedroom,62,train,20607148
+Home\30. Bedroom\MVI_4373.MOV,Home,30. Bedroom,62,train,18981400
+Home\30. Bedroom\MVI_4887.MOV,Home,30. Bedroom,62,train,15634608
+Home\30. Bedroom\MVI_4888.MOV,Home,30. Bedroom,62,test,15913732
+Home\30. Bedroom\MVI_4896.MOV,Home,30. Bedroom,62,train,13939976
+Home\30. Bedroom\MVI_8774.MP4,Home,30. Bedroom,62,val,15398755
+Home\30. Bedroom\MVI_8775.MP4,Home,30. Bedroom,62,train,16110198
+Home\30. Bedroom\MVI_8776.MP4,Home,30. Bedroom,62,test,14928051
+Home\30. Bedroom\MVI_8777.MP4,Home,30. Bedroom,62,val,15409185
+Home\30. Bedroom\MVI_9019.MP4,Home,30. Bedroom,62,train,16704894
+Home\30. Bedroom\MVI_9020.MP4,Home,30. Bedroom,62,train,16104332
+Home\30. Bedroom\MVI_9021.MP4,Home,30. Bedroom,62,train,15909651
+Means_of_Transportation\10. Plane\MVI_3113.MOV,Means_of_Transportation,10. Plane,63,test,21018296
+Means_of_Transportation\10. Plane\MVI_3114.MOV,Means_of_Transportation,10. Plane,63,train,19872540
+Means_of_Transportation\10. Plane\MVI_3115.MOV,Means_of_Transportation,10. Plane,63,train,16750352
+Means_of_Transportation\10. Plane\MVI_3142.MOV,Means_of_Transportation,10. Plane,63,train,17439496
+Means_of_Transportation\10. Plane\MVI_3143.MOV,Means_of_Transportation,10. Plane,63,train,16229456
+Means_of_Transportation\10. Plane\MVI_3144.MOV,Means_of_Transportation,10. Plane,63,train,18095700
+Means_of_Transportation\10. Plane\MVI_3171.MOV,Means_of_Transportation,10. Plane,63,train,20272784
+Means_of_Transportation\10. Plane\MVI_3172.MOV,Means_of_Transportation,10. Plane,63,val,16629992
+Means_of_Transportation\10. Plane\MVI_3173.MOV,Means_of_Transportation,10. Plane,63,train,18824124
+Means_of_Transportation\10. Plane\MVI_3206.MOV,Means_of_Transportation,10. Plane,63,train,15235056
+Means_of_Transportation\10. Plane\MVI_3207.MOV,Means_of_Transportation,10. Plane,63,test,13893880
+Means_of_Transportation\10. Plane\MVI_3208.MOV,Means_of_Transportation,10. Plane,63,test,12913928
+Means_of_Transportation\10. Plane\MVI_3234.MOV,Means_of_Transportation,10. Plane,63,train,16765040
+Means_of_Transportation\10. Plane\MVI_3235.MOV,Means_of_Transportation,10. Plane,63,train,17975160
+Means_of_Transportation\10. Plane\MVI_3236.MOV,Means_of_Transportation,10. Plane,63,val,16207744
+Means_of_Transportation\10. Plane\MVI_3237.MOV,Means_of_Transportation,10. Plane,63,train,15642984
+Means_of_Transportation\10. Plane\MVI_4173.MOV,Means_of_Transportation,10. Plane,63,train,12681400
+Means_of_Transportation\10. Plane\MVI_4174.MOV,Means_of_Transportation,10. Plane,63,val,13303508
+Means_of_Transportation\10. Plane\MVI_4175.MOV,Means_of_Transportation,10. Plane,63,train,11227740
+Means_of_Transportation\10. Plane\MVI_8581.MP4,Means_of_Transportation,10. Plane,63,train,9858963
+Means_of_Transportation\10. Plane\MVI_8582.MP4,Means_of_Transportation,10. Plane,63,val,9152566
+Means_of_Transportation\11. Car\MVI_3116.MOV,Means_of_Transportation,11. Car,64,train,23977880
+Means_of_Transportation\11. Car\MVI_3117.MOV,Means_of_Transportation,11. Car,64,train,22267368
+Means_of_Transportation\11. Car\MVI_3118.MOV,Means_of_Transportation,11. Car,64,train,26531624
+Means_of_Transportation\11. Car\MVI_3145.MOV,Means_of_Transportation,11. Car,64,train,31490904
+Means_of_Transportation\11. Car\MVI_3146.MOV,Means_of_Transportation,11. Car,64,train,33888916
+Means_of_Transportation\11. Car\MVI_3147.MOV,Means_of_Transportation,11. Car,64,test,35089580
+Means_of_Transportation\11. Car\MVI_3174.MOV,Means_of_Transportation,11. Car,64,train,22202424
+Means_of_Transportation\11. Car\MVI_3175.MOV,Means_of_Transportation,11. Car,64,val,21955888
+Means_of_Transportation\11. Car\MVI_3176.MOV,Means_of_Transportation,11. Car,64,val,21706556
+Means_of_Transportation\11. Car\MVI_3209.MOV,Means_of_Transportation,11. Car,64,train,24461472
+Means_of_Transportation\11. Car\MVI_3210.MOV,Means_of_Transportation,11. Car,64,train,21691672
+Means_of_Transportation\11. Car\MVI_3211.MOV,Means_of_Transportation,11. Car,64,train,20947632
+Means_of_Transportation\11. Car\MVI_3238.MOV,Means_of_Transportation,11. Car,64,train,23494520
+Means_of_Transportation\11. Car\MVI_3239.MOV,Means_of_Transportation,11. Car,64,test,24290212
+Means_of_Transportation\11. Car\MVI_3240.MOV,Means_of_Transportation,11. Car,64,train,21856652
+Means_of_Transportation\11. Car\MVI_4176.MOV,Means_of_Transportation,11. Car,64,train,16547180
+Means_of_Transportation\11. Car\MVI_4177.MOV,Means_of_Transportation,11. Car,64,train,18797012
+Means_of_Transportation\11. Car\MVI_4178.MOV,Means_of_Transportation,11. Car,64,train,17291188
+Means_of_Transportation\11. Car\MVI_8583.MP4,Means_of_Transportation,11. Car,64,test,14098403
+Means_of_Transportation\11. Car\MVI_8584.MP4,Means_of_Transportation,11. Car,64,val,13272773
+Means_of_Transportation\12. Truck\MVI_3119.MOV,Means_of_Transportation,12. Truck,65,train,23428188
+Means_of_Transportation\12. Truck\MVI_3120.MOV,Means_of_Transportation,12. Truck,65,train,21499056
+Means_of_Transportation\12. Truck\MVI_3121.MOV,Means_of_Transportation,12. Truck,65,train,20093572
+Means_of_Transportation\12. Truck\MVI_3148.MOV,Means_of_Transportation,12. Truck,65,train,23789808
+Means_of_Transportation\12. Truck\MVI_3149.MOV,Means_of_Transportation,12. Truck,65,val,22097532
+Means_of_Transportation\12. Truck\MVI_3150.MOV,Means_of_Transportation,12. Truck,65,train,22550072
+Means_of_Transportation\12. Truck\MVI_3177.MOV,Means_of_Transportation,12. Truck,65,train,18474036
+Means_of_Transportation\12. Truck\MVI_3178.MOV,Means_of_Transportation,12. Truck,65,val,23895572
+Means_of_Transportation\12. Truck\MVI_3179.MOV,Means_of_Transportation,12. Truck,65,test,23711444
+Means_of_Transportation\12. Truck\MVI_3180.MOV,Means_of_Transportation,12. Truck,65,train,22359636
+Means_of_Transportation\12. Truck\MVI_3212.MOV,Means_of_Transportation,12. Truck,65,train,18332864
+Means_of_Transportation\12. Truck\MVI_3213.MOV,Means_of_Transportation,12. Truck,65,train,19742548
+Means_of_Transportation\12. Truck\MVI_3214.MOV,Means_of_Transportation,12. Truck,65,train,18541528
+Means_of_Transportation\12. Truck\MVI_3241.MOV,Means_of_Transportation,12. Truck,65,train,16929740
+Means_of_Transportation\12. Truck\MVI_3242.MOV,Means_of_Transportation,12. Truck,65,test,17093128
+Means_of_Transportation\12. Truck\MVI_3243.MOV,Means_of_Transportation,12. Truck,65,train,18697036
+Means_of_Transportation\12. Truck\MVI_4179.MOV,Means_of_Transportation,12. Truck,65,train,13601852
+Means_of_Transportation\12. Truck\MVI_4180.MOV,Means_of_Transportation,12. Truck,65,train,16371548
+Means_of_Transportation\12. Truck\MVI_4181.MOV,Means_of_Transportation,12. Truck,65,val,12788928
+Means_of_Transportation\12. Truck\MVI_8585.MP4,Means_of_Transportation,12. Truck,65,train,11400770
+Means_of_Transportation\12. Truck\MVI_8586.MP4,Means_of_Transportation,12. Truck,65,test,11724696
+Means_of_Transportation\13. Bicycle\MVI_3122.MOV,Means_of_Transportation,13. Bicycle,66,test,20717512
+Means_of_Transportation\13. Bicycle\MVI_3123.MOV,Means_of_Transportation,13. Bicycle,66,val,19565440
+Means_of_Transportation\13. Bicycle\MVI_3125.MOV,Means_of_Transportation,13. Bicycle,66,train,18463636
+Means_of_Transportation\13. Bicycle\MVI_3151.MOV,Means_of_Transportation,13. Bicycle,66,train,19917092
+Means_of_Transportation\13. Bicycle\MVI_3152.MOV,Means_of_Transportation,13. Bicycle,66,train,21972728
+Means_of_Transportation\13. Bicycle\MVI_3153.MOV,Means_of_Transportation,13. Bicycle,66,train,15222772
+Means_of_Transportation\13. Bicycle\MVI_3181.MOV,Means_of_Transportation,13. Bicycle,66,test,21498404
+Means_of_Transportation\13. Bicycle\MVI_3182.MOV,Means_of_Transportation,13. Bicycle,66,train,18563228
+Means_of_Transportation\13. Bicycle\MVI_3183.MOV,Means_of_Transportation,13. Bicycle,66,train,16821848
+Means_of_Transportation\13. Bicycle\MVI_3215.MOV,Means_of_Transportation,13. Bicycle,66,train,16002600
+Means_of_Transportation\13. Bicycle\MVI_3216.MOV,Means_of_Transportation,13. Bicycle,66,val,17252968
+Means_of_Transportation\13. Bicycle\MVI_3217.MOV,Means_of_Transportation,13. Bicycle,66,train,19669408
+Means_of_Transportation\13. Bicycle\MVI_3244.MOV,Means_of_Transportation,13. Bicycle,66,train,16602056
+Means_of_Transportation\13. Bicycle\MVI_3245.MOV,Means_of_Transportation,13. Bicycle,66,train,17389516
+Means_of_Transportation\13. Bicycle\MVI_3246.MOV,Means_of_Transportation,13. Bicycle,66,train,16400876
+Means_of_Transportation\13. Bicycle\MVI_4182.MOV,Means_of_Transportation,13. Bicycle,66,train,14255004
+Means_of_Transportation\13. Bicycle\MVI_4183.MOV,Means_of_Transportation,13. Bicycle,66,train,15135392
+Means_of_Transportation\13. Bicycle\MVI_4184.MOV,Means_of_Transportation,13. Bicycle,66,test,14529948
+Means_of_Transportation\13. Bicycle\MVI_8587.MP4,Means_of_Transportation,13. Bicycle,66,train,11383902
+Means_of_Transportation\13. Bicycle\MVI_8588.MP4,Means_of_Transportation,13. Bicycle,66,val,9861996
+Means_of_Transportation\14. Bus\MVI_3126.MOV,Means_of_Transportation,14. Bus,67,val,22332572
+Means_of_Transportation\14. Bus\MVI_3127.MOV,Means_of_Transportation,14. Bus,67,train,19862336
+Means_of_Transportation\14. Bus\MVI_3128.MOV,Means_of_Transportation,14. Bus,67,train,20404812
+Means_of_Transportation\14. Bus\MVI_3155.MOV,Means_of_Transportation,14. Bus,67,val,21031180
+Means_of_Transportation\14. Bus\MVI_3156.MOV,Means_of_Transportation,14. Bus,67,train,22220284
+Means_of_Transportation\14. Bus\MVI_3157.MOV,Means_of_Transportation,14. Bus,67,train,18827972
+Means_of_Transportation\14. Bus\MVI_3184.MOV,Means_of_Transportation,14. Bus,67,test,18763200
+Means_of_Transportation\14. Bus\MVI_3185.MOV,Means_of_Transportation,14. Bus,67,train,20378416
+Means_of_Transportation\14. Bus\MVI_3186.MOV,Means_of_Transportation,14. Bus,67,train,22058128
+Means_of_Transportation\14. Bus\MVI_3218.MOV,Means_of_Transportation,14. Bus,67,train,20910968
+Means_of_Transportation\14. Bus\MVI_3219.MOV,Means_of_Transportation,14. Bus,67,test,17034304
+Means_of_Transportation\14. Bus\MVI_3220.MOV,Means_of_Transportation,14. Bus,67,train,19469508
+Means_of_Transportation\14. Bus\MVI_3247.MOV,Means_of_Transportation,14. Bus,67,train,14840948
+Means_of_Transportation\14. Bus\MVI_3248.MOV,Means_of_Transportation,14. Bus,67,train,18074152
+Means_of_Transportation\14. Bus\MVI_3249.MOV,Means_of_Transportation,14. Bus,67,train,19262540
+Means_of_Transportation\14. Bus\MVI_4185.MOV,Means_of_Transportation,14. Bus,67,train,16387296
+Means_of_Transportation\14. Bus\MVI_4186.MOV,Means_of_Transportation,14. Bus,67,test,16582772
+Means_of_Transportation\14. Bus\MVI_4187.MOV,Means_of_Transportation,14. Bus,67,val,13445768
+Means_of_Transportation\14. Bus\MVI_8589.MP4,Means_of_Transportation,14. Bus,67,train,13298013
+Means_of_Transportation\14. Bus\MVI_8590.MP4,Means_of_Transportation,14. Bus,67,train,12128388
+Means_of_Transportation\15. Boat\MVI_3129.MOV,Means_of_Transportation,15. Boat,68,train,25903956
+Means_of_Transportation\15. Boat\MVI_3130.MOV,Means_of_Transportation,15. Boat,68,val,26535856
+Means_of_Transportation\15. Boat\MVI_3131.MOV,Means_of_Transportation,15. Boat,68,val,27153784
+Means_of_Transportation\15. Boat\MVI_3158.MOV,Means_of_Transportation,15. Boat,68,train,24930760
+Means_of_Transportation\15. Boat\MVI_3159.MOV,Means_of_Transportation,15. Boat,68,train,21220704
+Means_of_Transportation\15. Boat\MVI_3160.MOV,Means_of_Transportation,15. Boat,68,train,23096328
+Means_of_Transportation\15. Boat\MVI_3187.MOV,Means_of_Transportation,15. Boat,68,train,26284200
+Means_of_Transportation\15. Boat\MVI_3189.MOV,Means_of_Transportation,15. Boat,68,val,21698512
+Means_of_Transportation\15. Boat\MVI_3190.MOV,Means_of_Transportation,15. Boat,68,train,22932496
+Means_of_Transportation\15. Boat\MVI_3191.MOV,Means_of_Transportation,15. Boat,68,train,25423252
+Means_of_Transportation\15. Boat\MVI_3221.MOV,Means_of_Transportation,15. Boat,68,train,28147028
+Means_of_Transportation\15. Boat\MVI_3222.MOV,Means_of_Transportation,15. Boat,68,train,26951788
+Means_of_Transportation\15. Boat\MVI_3223.MOV,Means_of_Transportation,15. Boat,68,test,25587364
+Means_of_Transportation\15. Boat\MVI_3250.MOV,Means_of_Transportation,15. Boat,68,train,23095672
+Means_of_Transportation\15. Boat\MVI_3251.MOV,Means_of_Transportation,15. Boat,68,train,22350728
+Means_of_Transportation\15. Boat\MVI_3252.MOV,Means_of_Transportation,15. Boat,68,test,21084840
+Means_of_Transportation\15. Boat\MVI_4188.MOV,Means_of_Transportation,15. Boat,68,test,21322504
+Means_of_Transportation\15. Boat\MVI_4189.MOV,Means_of_Transportation,15. Boat,68,train,17516168
+Means_of_Transportation\15. Boat\MVI_4190.MOV,Means_of_Transportation,15. Boat,68,test,17203528
+Means_of_Transportation\15. Boat\MVI_8594.MP4,Means_of_Transportation,15. Boat,68,train,14489980
+Means_of_Transportation\15. Boat\MVI_8595.MP4,Means_of_Transportation,15. Boat,68,train,15193089
+Means_of_Transportation\16. train ticket\MVI_3132.MOV,Means_of_Transportation,16. train ticket,69,train,20216816
+Means_of_Transportation\16. train ticket\MVI_3133.MOV,Means_of_Transportation,16. train ticket,69,test,23527420
+Means_of_Transportation\16. train ticket\MVI_3134.MOV,Means_of_Transportation,16. train ticket,69,test,22829404
+Means_of_Transportation\16. train ticket\MVI_3162.MOV,Means_of_Transportation,16. train ticket,69,train,18701504
+Means_of_Transportation\16. train ticket\MVI_3163.MOV,Means_of_Transportation,16. train ticket,69,train,19462900
+Means_of_Transportation\16. train ticket\MVI_3164.MOV,Means_of_Transportation,16. train ticket,69,train,24594248
+Means_of_Transportation\16. train ticket\MVI_3194.MOV,Means_of_Transportation,16. train ticket,69,test,22462924
+Means_of_Transportation\16. train ticket\MVI_3195.MOV,Means_of_Transportation,16. train ticket,69,train,22738928
+Means_of_Transportation\16. train ticket\MVI_3196.MOV,Means_of_Transportation,16. train ticket,69,train,23149956
+Means_of_Transportation\16. train ticket\MVI_3197.MOV,Means_of_Transportation,16. train ticket,69,val,23155688
+Means_of_Transportation\16. train ticket\MVI_3224.MOV,Means_of_Transportation,16. train ticket,69,train,20818912
+Means_of_Transportation\16. train ticket\MVI_3225.MOV,Means_of_Transportation,16. train ticket,69,test,22247408
+Means_of_Transportation\16. train ticket\MVI_3226.MOV,Means_of_Transportation,16. train ticket,69,train,18251076
+Means_of_Transportation\16. train ticket\MVI_3253.MOV,Means_of_Transportation,16. train ticket,69,val,16865824
+Means_of_Transportation\16. train ticket\MVI_3254.MOV,Means_of_Transportation,16. train ticket,69,train,16600964
+Means_of_Transportation\16. train ticket\MVI_3255.MOV,Means_of_Transportation,16. train ticket,69,train,18056876
+Means_of_Transportation\16. train ticket\MVI_4191.MOV,Means_of_Transportation,16. train ticket,69,train,16996400
+Means_of_Transportation\16. train ticket\MVI_4192.MOV,Means_of_Transportation,16. train ticket,69,train,17574620
+Means_of_Transportation\16. train ticket\MVI_4193.MOV,Means_of_Transportation,16. train ticket,69,val,16283392
+Means_of_Transportation\16. train ticket\MVI_8596.MP4,Means_of_Transportation,16. train ticket,69,train,15514378
+Means_of_Transportation\16. train ticket\MVI_8597.MP4,Means_of_Transportation,16. train ticket,69,train,13280523
+Means_of_Transportation\17. Transportation\MVI_3135.MOV,Means_of_Transportation,17. Transportation,70,test,22639432
+Means_of_Transportation\17. Transportation\MVI_3136.MOV,Means_of_Transportation,17. Transportation,70,train,23452900
+Means_of_Transportation\17. Transportation\MVI_3137.MOV,Means_of_Transportation,17. Transportation,70,val,20846888
+Means_of_Transportation\17. Transportation\MVI_3165.MOV,Means_of_Transportation,17. Transportation,70,train,17431068
+Means_of_Transportation\17. Transportation\MVI_3166.MOV,Means_of_Transportation,17. Transportation,70,test,19940772
+Means_of_Transportation\17. Transportation\MVI_3167.MOV,Means_of_Transportation,17. Transportation,70,train,15744040
+Means_of_Transportation\17. Transportation\MVI_3198.MOV,Means_of_Transportation,17. Transportation,70,train,20342980
+Means_of_Transportation\17. Transportation\MVI_3199.MOV,Means_of_Transportation,17. Transportation,70,val,20060932
+Means_of_Transportation\17. Transportation\MVI_3200.MOV,Means_of_Transportation,17. Transportation,70,train,21021516
+Means_of_Transportation\17. Transportation\MVI_3201.MOV,Means_of_Transportation,17. Transportation,70,train,17618252
+Means_of_Transportation\17. Transportation\MVI_3227.MOV,Means_of_Transportation,17. Transportation,70,train,19495948
+Means_of_Transportation\17. Transportation\MVI_3228.MOV,Means_of_Transportation,17. Transportation,70,train,16601244
+Means_of_Transportation\17. Transportation\MVI_3229.MOV,Means_of_Transportation,17. Transportation,70,train,15392388
+Means_of_Transportation\17. Transportation\MVI_3256.MOV,Means_of_Transportation,17. Transportation,70,train,20491868
+Means_of_Transportation\17. Transportation\MVI_3257.MOV,Means_of_Transportation,17. Transportation,70,val,17442820
+Means_of_Transportation\17. Transportation\MVI_3258.MOV,Means_of_Transportation,17. Transportation,70,train,17644620
+Means_of_Transportation\17. Transportation\MVI_4194.MOV,Means_of_Transportation,17. Transportation,70,train,14266132
+Means_of_Transportation\17. Transportation\MVI_4195.MOV,Means_of_Transportation,17. Transportation,70,train,14031524
+Means_of_Transportation\17. Transportation\MVI_4196.MOV,Means_of_Transportation,17. Transportation,70,train,11184404
+Means_of_Transportation\17. Transportation\MVI_8598.MP4,Means_of_Transportation,17. Transportation,70,train,10345619
+Means_of_Transportation\17. Transportation\MVI_8599.MP4,Means_of_Transportation,17. Transportation,70,test,10472494
+Means_of_Transportation\9. Train\MVI_3110.MOV,Means_of_Transportation,9. Train,71,val,17646816
+Means_of_Transportation\9. Train\MVI_3111.MOV,Means_of_Transportation,9. Train,71,test,19948432
+Means_of_Transportation\9. Train\MVI_3112.MOV,Means_of_Transportation,9. Train,71,train,19241888
+Means_of_Transportation\9. Train\MVI_3139.MOV,Means_of_Transportation,9. Train,71,test,21431676
+Means_of_Transportation\9. Train\MVI_3140.MOV,Means_of_Transportation,9. Train,71,train,18399928
+Means_of_Transportation\9. Train\MVI_3141.MOV,Means_of_Transportation,9. Train,71,train,18300032
+Means_of_Transportation\9. Train\MVI_3168.MOV,Means_of_Transportation,9. Train,71,train,17313564
+Means_of_Transportation\9. Train\MVI_3169.MOV,Means_of_Transportation,9. Train,71,train,19299276
+Means_of_Transportation\9. Train\MVI_3170.MOV,Means_of_Transportation,9. Train,71,train,17087336
+Means_of_Transportation\9. Train\MVI_3202.MOV,Means_of_Transportation,9. Train,71,train,20429664
+Means_of_Transportation\9. Train\MVI_3203.MOV,Means_of_Transportation,9. Train,71,train,16579952
+Means_of_Transportation\9. Train\MVI_3204.MOV,Means_of_Transportation,9. Train,71,train,14794084
+Means_of_Transportation\9. Train\MVI_3230.MOV,Means_of_Transportation,9. Train,71,train,20058392
+Means_of_Transportation\9. Train\MVI_3231.MOV,Means_of_Transportation,9. Train,71,train,15462384
+Means_of_Transportation\9. Train\MVI_3232.MOV,Means_of_Transportation,9. Train,71,test,12895316
+Means_of_Transportation\9. Train\MVI_3233.MOV,Means_of_Transportation,9. Train,71,val,17937448
+Means_of_Transportation\9. Train\MVI_4170.MOV,Means_of_Transportation,9. Train,71,train,13837664
+Means_of_Transportation\9. Train\MVI_4171.MOV,Means_of_Transportation,9. Train,71,train,12572280
+Means_of_Transportation\9. Train\MVI_4172.MOV,Means_of_Transportation,9. Train,71,val,11022372
+Means_of_Transportation\9. Train\MVI_8579.MP4,Means_of_Transportation,9. Train,71,train,10434519
+Means_of_Transportation\9. Train\MVI_8580.MP4,Means_of_Transportation,9. Train,71,test,8681791
+Places\18. City\MVI_3263.MOV,Places,18. City,72,train,19782160
+Places\18. City\MVI_3264.MOV,Places,18. City,72,val,14137588
+Places\18. City\MVI_3265.MOV,Places,18. City,72,test,18212356
+Places\18. City\MVI_3266.MOV,Places,18. City,72,test,17835120
+Places\18. City\MVI_3345.MOV,Places,18. City,72,train,21016576
+Places\18. City\MVI_3346.MOV,Places,18. City,72,train,14305132
+Places\18. City\MVI_3347.MOV,Places,18. City,72,train,13980112
+Places\18. City\MVI_3348.MOV,Places,18. City,72,train,12594988
+Places\18. City\MVI_3430.MOV,Places,18. City,72,val,15952912
+Places\18. City\MVI_3431.MOV,Places,18. City,72,test,15014556
+Places\18. City\MVI_3432.MOV,Places,18. City,72,train,14134808
+Places\18. City\MVI_3434.MOV,Places,18. City,72,val,15377584
+Places\18. City\MVI_3508.MOV,Places,18. City,72,train,15041884
+Places\18. City\MVI_3509.MOV,Places,18. City,72,train,12980576
+Places\18. City\MVI_3510.MOV,Places,18. City,72,train,15950360
+Places\18. City\MVI_3512.MOV,Places,18. City,72,train,13553772
+Places\18. City\MVI_3589.MOV,Places,18. City,72,train,15536420
+Places\18. City\MVI_3590.MOV,Places,18. City,72,train,14138012
+Places\18. City\MVI_3591.MOV,Places,18. City,72,train,13181488
+Places\18. City\MVI_3592.MOV,Places,18. City,72,train,11933488
+Places\19. House\MVI_3267.MOV,Places,19. House,73,train,17041432
+Places\19. House\MVI_3268.MOV,Places,19. House,73,val,16329360
+Places\19. House\MVI_3269.MOV,Places,19. House,73,train,13137268
+Places\19. House\MVI_3270.MOV,Places,19. House,73,train,16213628
+Places\19. House\MVI_3349.MOV,Places,19. House,73,train,14816236
+Places\19. House\MVI_3350.MOV,Places,19. House,73,test,11981940
+Places\19. House\MVI_3351.MOV,Places,19. House,73,test,12827924
+Places\19. House\MVI_3352.MOV,Places,19. House,73,test,12325624
+Places\19. House\MVI_3435.MOV,Places,19. House,73,val,14232964
+Places\19. House\MVI_3436.MOV,Places,19. House,73,train,14082828
+Places\19. House\MVI_3437.MOV,Places,19. House,73,train,14704088
+Places\19. House\MVI_3438.MOV,Places,19. House,73,train,12656516
+Places\19. House\MVI_3439.MOV,Places,19. House,73,val,12460320
+Places\19. House\MVI_3513.MOV,Places,19. House,73,train,11878620
+Places\19. House\MVI_3514.MOV,Places,19. House,73,train,10604240
+Places\19. House\MVI_3515.MOV,Places,19. House,73,train,9860476
+Places\19. House\MVI_3516.MOV,Places,19. House,73,train,10598160
+Places\19. House\MVI_3593.MOV,Places,19. House,73,train,14008792
+Places\19. House\MVI_3594.MOV,Places,19. House,73,train,12505672
+Places\19. House\MVI_3595.MOV,Places,19. House,73,train,12748360
+Places\19. House\MVI_3596.MOV,Places,19. House,73,test,11896228
+Places\20. Street or Road\MVI_3271.MOV,Places,20. Street or Road,74,val,12977840
+Places\20. Street or Road\MVI_3272.MOV,Places,20. Street or Road,74,test,16350268
+Places\20. Street or Road\MVI_3273.MOV,Places,20. Street or Road,74,train,13349856
+Places\20. Street or Road\MVI_3274.MOV,Places,20. Street or Road,74,val,15968104
+Places\20. Street or Road\MVI_3353.MOV,Places,20. Street or Road,74,test,13974400
+Places\20. Street or Road\MVI_3354.MOV,Places,20. Street or Road,74,val,13992532
+Places\20. Street or Road\MVI_3355.MOV,Places,20. Street or Road,74,train,12741976
+Places\20. Street or Road\MVI_3356.MOV,Places,20. Street or Road,74,train,12118368
+Places\20. Street or Road\MVI_3440.MOV,Places,20. Street or Road,74,test,12932008
+Places\20. Street or Road\MVI_3441.MOV,Places,20. Street or Road,74,train,11091412
+Places\20. Street or Road\MVI_3442.MOV,Places,20. Street or Road,74,train,11738732
+Places\20. Street or Road\MVI_3443.MOV,Places,20. Street or Road,74,train,12400892
+Places\20. Street or Road\MVI_3517.MOV,Places,20. Street or Road,74,train,14219684
+Places\20. Street or Road\MVI_3518.MOV,Places,20. Street or Road,74,train,13937168
+Places\20. Street or Road\MVI_3519.MOV,Places,20. Street or Road,74,train,12309064
+Places\20. Street or Road\MVI_3520.MOV,Places,20. Street or Road,74,train,13039488
+Places\20. Street or Road\MVI_3597.MOV,Places,20. Street or Road,74,train,12588404
+Places\20. Street or Road\MVI_3598.MOV,Places,20. Street or Road,74,train,10895060
+Places\20. Street or Road\MVI_3599.MOV,Places,20. Street or Road,74,train,10348184
+Places\20. Street or Road\MVI_3600.MOV,Places,20. Street or Road,74,train,11014092
+Places\21. Train Station\Extra\MVI_3279.MOV,Places,21. Train Station,75,train,18322332
+Places\21. Train Station\Extra\MVI_3526.MOV,Places,21. Train Station,75,train,14439916
+Places\21. Train Station\MVI_3275.MOV,Places,21. Train Station,75,train,16955244
+Places\21. Train Station\MVI_3276.MOV,Places,21. Train Station,75,train,18873732
+Places\21. Train Station\MVI_3277.MOV,Places,21. Train Station,75,train,17443576
+Places\21. Train Station\MVI_3278.MOV,Places,21. Train Station,75,train,16779200
+Places\21. Train Station\MVI_3357.MOV,Places,21. Train Station,75,test,15498584
+Places\21. Train Station\MVI_3358.MOV,Places,21. Train Station,75,train,13345364
+Places\21. Train Station\MVI_3359.MOV,Places,21. Train Station,75,train,14935344
+Places\21. Train Station\MVI_3360.MOV,Places,21. Train Station,75,test,13856132
+Places\21. Train Station\MVI_3444.MOV,Places,21. Train Station,75,train,14271628
+Places\21. Train Station\MVI_3445.MOV,Places,21. Train Station,75,train,12190496
+Places\21. Train Station\MVI_3446.MOV,Places,21. Train Station,75,val,11824252
+Places\21. Train Station\MVI_3447.MOV,Places,21. Train Station,75,train,15126860
+Places\21. Train Station\MVI_3521.MOV,Places,21. Train Station,75,train,12590648
+Places\21. Train Station\MVI_3522.MOV,Places,21. Train Station,75,train,11469904
+Places\21. Train Station\MVI_3524.MOV,Places,21. Train Station,75,test,12326280
+Places\21. Train Station\MVI_3525.MOV,Places,21. Train Station,75,train,12234560
+Places\21. Train Station\MVI_3601.MOV,Places,21. Train Station,75,val,14209768
+Places\21. Train Station\MVI_3602.MOV,Places,21. Train Station,75,train,13065736
+Places\21. Train Station\MVI_3603.MOV,Places,21. Train Station,75,val,10735280
+Places\21. Train Station\MVI_3604.MOV,Places,21. Train Station,75,val,13537748
+Places\22. Restaurant\MVI_3280.MOV,Places,22. Restaurant,76,train,15405412
+Places\22. Restaurant\MVI_3281.MOV,Places,22. Restaurant,76,train,15812984
+Places\22. Restaurant\MVI_3282.MOV,Places,22. Restaurant,76,train,14270636
+Places\22. Restaurant\MVI_3283.MOV,Places,22. Restaurant,76,val,14398400
+Places\22. Restaurant\MVI_3361.MOV,Places,22. Restaurant,76,train,15312224
+Places\22. Restaurant\MVI_3362.MOV,Places,22. Restaurant,76,train,14585428
+Places\22. Restaurant\MVI_3363.MOV,Places,22. Restaurant,76,val,13210948
+Places\22. Restaurant\MVI_3364.MOV,Places,22. Restaurant,76,test,13756508
+Places\22. Restaurant\MVI_3448.MOV,Places,22. Restaurant,76,train,13193544
+Places\22. Restaurant\MVI_3449.MOV,Places,22. Restaurant,76,train,11540516
+Places\22. Restaurant\MVI_3450.MOV,Places,22. Restaurant,76,test,11116644
+Places\22. Restaurant\MVI_3451.MOV,Places,22. Restaurant,76,train,10546904
+Places\22. Restaurant\MVI_3527.MOV,Places,22. Restaurant,76,train,13850820
+Places\22. Restaurant\MVI_3528.MOV,Places,22. Restaurant,76,train,13335396
+Places\22. Restaurant\MVI_3529.MOV,Places,22. Restaurant,76,train,13207516
+Places\22. Restaurant\MVI_3530.MOV,Places,22. Restaurant,76,train,12040296
+Places\22. Restaurant\MVI_3605.MOV,Places,22. Restaurant,76,test,12862244
+Places\22. Restaurant\MVI_3606.MOV,Places,22. Restaurant,76,train,11274664
+Places\22. Restaurant\MVI_3607.MOV,Places,22. Restaurant,76,val,9840312
+Places\22. Restaurant\MVI_3608.MOV,Places,22. Restaurant,76,train,10391852
+Pronouns\40. I\MVI_0001.MOV,Pronouns,40. I,77,train,14578904
+Pronouns\40. I\MVI_0002.MOV,Pronouns,40. I,77,val,20061556
+Pronouns\40. I\MVI_0003.MOV,Pronouns,40. I,77,test,11685924
+Pronouns\40. I\MVI_0012.MOV,Pronouns,40. I,77,train,9956468
+Pronouns\40. I\MVI_0013.MOV,Pronouns,40. I,77,train,9554464
+Pronouns\40. I\MVI_0014.MOV,Pronouns,40. I,77,train,10015628
+Pronouns\40. I\MVI_0064.MOV,Pronouns,40. I,77,train,14382612
+Pronouns\40. I\MVI_0065.MOV,Pronouns,40. I,77,train,15962856
+Pronouns\40. I\MVI_0066.MOV,Pronouns,40. I,77,train,14462284
+Pronouns\40. I\MVI_9878.MOV,Pronouns,40. I,77,train,10635184
+Pronouns\40. I\MVI_9879.MOV,Pronouns,40. I,77,test,11696108
+Pronouns\40. I\MVI_9880.MOV,Pronouns,40. I,77,train,11924548
+Pronouns\40. I\MVI_9881.MOV,Pronouns,40. I,77,test,10934360
+Pronouns\40. I\MVI_9918.MOV,Pronouns,40. I,77,train,18066204
+Pronouns\40. I\MVI_9919.MOV,Pronouns,40. I,77,train,17563676
+Pronouns\40. I\MVI_9920.MOV,Pronouns,40. I,77,train,17267244
+Pronouns\40. I\MVI_9922.MOV,Pronouns,40. I,77,val,14662612
+Pronouns\40. I\MVI_9957.MOV,Pronouns,40. I,77,train,10085964
+Pronouns\40. I\MVI_9958.MOV,Pronouns,40. I,77,val,10286140
+Pronouns\40. I\MVI_9959.MOV,Pronouns,40. I,77,train,11008764
+Pronouns\40. I\MVI_9995.MOV,Pronouns,40. I,77,test,16712744
+Pronouns\41. you\MVI_0015.MOV,Pronouns,41. you,78,train,10428072
+Pronouns\41. you\MVI_0016.MOV,Pronouns,41. you,78,train,12739724
+Pronouns\41. you\MVI_0017.MOV,Pronouns,41. you,78,test,10870288
+Pronouns\41. you\MVI_0067.MOV,Pronouns,41. you,78,train,13966916
+Pronouns\41. you\MVI_0068.MOV,Pronouns,41. you,78,val,14172928
+Pronouns\41. you\MVI_0069.MOV,Pronouns,41. you,78,train,14185436
+Pronouns\41. you\MVI_9885.MOV,Pronouns,41. you,78,test,9240360
+Pronouns\41. you\MVI_9886.MOV,Pronouns,41. you,78,train,9840232
+Pronouns\41. you\MVI_9887.MOV,Pronouns,41. you,78,train,10097092
+Pronouns\41. you\MVI_9888.MOV,Pronouns,41. you,78,val,8587340
+Pronouns\41. you\MVI_9923.MOV,Pronouns,41. you,78,train,14619372
+Pronouns\41. you\MVI_9924.MOV,Pronouns,41. you,78,val,19817512
+Pronouns\41. you\MVI_9925.MOV,Pronouns,41. you,78,train,17894896
+Pronouns\41. you\MVI_9926.MOV,Pronouns,41. you,78,train,19273120
+Pronouns\41. you\MVI_9960.MOV,Pronouns,41. you,78,train,10438032
+Pronouns\41. you\MVI_9961.MOV,Pronouns,41. you,78,train,10458992
+Pronouns\41. you\MVI_9962.MOV,Pronouns,41. you,78,train,9321768
+Pronouns\41. you\MVI_9996.MOV,Pronouns,41. you,78,train,15279368
+Pronouns\41. you\MVI_9997.MOV,Pronouns,41. you,78,test,14365724
+Pronouns\41. you\MVI_9998.MOV,Pronouns,41. you,78,train,15247188
+Pronouns\41. you\MVI_9999.MOV,Pronouns,41. you,78,train,15881940
+Pronouns\42. he\MVI_0005.MOV,Pronouns,42. he,79,train,16749396
+Pronouns\42. he\MVI_0006.MOV,Pronouns,42. he,79,train,17675640
+Pronouns\42. he\MVI_0007.MOV,Pronouns,42. he,79,train,16559928
+Pronouns\42. he\MVI_0008.MOV,Pronouns,42. he,79,train,15799188
+Pronouns\42. he\MVI_0018.MOV,Pronouns,42. he,79,train,9519136
+Pronouns\42. he\MVI_0019.MOV,Pronouns,42. he,79,train,12954800
+Pronouns\42. he\MVI_0020.MOV,Pronouns,42. he,79,test,11878724
+Pronouns\42. he\MVI_0070.MOV,Pronouns,42. he,79,test,16025904
+Pronouns\42. he\MVI_0071.MOV,Pronouns,42. he,79,train,17439352
+Pronouns\42. he\MVI_0072.MOV,Pronouns,42. he,79,train,17405456
+Pronouns\42. he\MVI_9889.MOV,Pronouns,42. he,79,train,11105452
+Pronouns\42. he\MVI_9890.MOV,Pronouns,42. he,79,val,12268196
+Pronouns\42. he\MVI_9891.MOV,Pronouns,42. he,79,train,11667984
+Pronouns\42. he\MVI_9892.MOV,Pronouns,42. he,79,train,11414220
+Pronouns\42. he\MVI_9927.MOV,Pronouns,42. he,79,train,20647816
+Pronouns\42. he\MVI_9928.MOV,Pronouns,42. he,79,test,19938424
+Pronouns\42. he\MVI_9930.MOV,Pronouns,42. he,79,val,16854020
+Pronouns\42. he\MVI_9931.MOV,Pronouns,42. he,79,train,18949340
+Pronouns\42. he\MVI_9963.MOV,Pronouns,42. he,79,val,11250300
+Pronouns\42. he\MVI_9964.MOV,Pronouns,42. he,79,train,13464044
+Pronouns\42. he\MVI_9965.MOV,Pronouns,42. he,79,train,12329768
+Pronouns\43. she\MVI_0009.MOV,Pronouns,43. she,80,train,16389648
+Pronouns\43. she\MVI_0010.MOV,Pronouns,43. she,80,train,17670616
+Pronouns\43. she\MVI_0011.MOV,Pronouns,43. she,80,train,16846996
+Pronouns\43. she\MVI_0012.MOV,Pronouns,43. she,80,train,17916036
+Pronouns\43. she\MVI_0021.MOV,Pronouns,43. she,80,train,9143552
+Pronouns\43. she\MVI_0022.MOV,Pronouns,43. she,80,train,11302388
+Pronouns\43. she\MVI_0023.MOV,Pronouns,43. she,80,test,11497972
+Pronouns\43. she\MVI_0073.MOV,Pronouns,43. she,80,train,16634620
+Pronouns\43. she\MVI_0074.MOV,Pronouns,43. she,80,train,16011888
+Pronouns\43. she\MVI_0075.MOV,Pronouns,43. she,80,val,14970328
+Pronouns\43. she\MVI_9893.MOV,Pronouns,43. she,80,train,10868368
+Pronouns\43. she\MVI_9894.MOV,Pronouns,43. she,80,train,11170016
+Pronouns\43. she\MVI_9895.MOV,Pronouns,43. she,80,train,12269592
+Pronouns\43. she\MVI_9896.MOV,Pronouns,43. she,80,train,11483204
+Pronouns\43. she\MVI_9932.MOV,Pronouns,43. she,80,val,23786232
+Pronouns\43. she\MVI_9933.MOV,Pronouns,43. she,80,test,20516212
+Pronouns\43. she\MVI_9934.MOV,Pronouns,43. she,80,val,19123328
+Pronouns\43. she\MVI_9935.MOV,Pronouns,43. she,80,test,21203936
+Pronouns\43. she\MVI_9966.MOV,Pronouns,43. she,80,train,10466800
+Pronouns\43. she\MVI_9967.MOV,Pronouns,43. she,80,train,11180128
+Pronouns\43. she\MVI_9968.MOV,Pronouns,43. she,80,train,11843768
+Pronouns\44. it\MVI_0013.MOV,Pronouns,44. it,81,train,14465948
+Pronouns\44. it\MVI_0014.MOV,Pronouns,44. it,81,train,17450076
+Pronouns\44. it\MVI_0015.MOV,Pronouns,44. it,81,test,15839456
+Pronouns\44. it\MVI_0016.MOV,Pronouns,44. it,81,train,15509416
+Pronouns\44. it\MVI_0024.MOV,Pronouns,44. it,81,train,9660976
+Pronouns\44. it\MVI_0025.MOV,Pronouns,44. it,81,train,9110468
+Pronouns\44. it\MVI_0026.MOV,Pronouns,44. it,81,val,9594284
+Pronouns\44. it\MVI_0076.MOV,Pronouns,44. it,81,train,13677300
+Pronouns\44. it\MVI_0077.MOV,Pronouns,44. it,81,train,15327436
+Pronouns\44. it\MVI_0078.MOV,Pronouns,44. it,81,test,12755192
+Pronouns\44. it\MVI_9897.MOV,Pronouns,44. it,81,train,9540316
+Pronouns\44. it\MVI_9898.MOV,Pronouns,44. it,81,train,9952116
+Pronouns\44. it\MVI_9899.MOV,Pronouns,44. it,81,train,9599264
+Pronouns\44. it\MVI_9900.MOV,Pronouns,44. it,81,train,11027576
+Pronouns\44. it\MVI_9936.MOV,Pronouns,44. it,81,train,16022332
+Pronouns\44. it\MVI_9937.MOV,Pronouns,44. it,81,train,18993472
+Pronouns\44. it\MVI_9938.MOV,Pronouns,44. it,81,train,14803120
+Pronouns\44. it\MVI_9939.MOV,Pronouns,44. it,81,test,16217908
+Pronouns\44. it\MVI_9969.MOV,Pronouns,44. it,81,train,9579744
+Pronouns\44. it\MVI_9970.MOV,Pronouns,44. it,81,val,10439376
+Pronouns\44. it\MVI_9971.MOV,Pronouns,44. it,81,val,10211768
+Pronouns\45. we\MVI_0017.MOV,Pronouns,45. we,82,test,18483512
+Pronouns\45. we\MVI_0018.MOV,Pronouns,45. we,82,train,18103388
+Pronouns\45. we\MVI_0019.MOV,Pronouns,45. we,82,train,18491404
+Pronouns\45. we\MVI_0020.MOV,Pronouns,45. we,82,train,17629664
+Pronouns\45. we\MVI_0027.MOV,Pronouns,45. we,82,train,11526160
+Pronouns\45. we\MVI_0028.MOV,Pronouns,45. we,82,train,12858108
+Pronouns\45. we\MVI_0029.MOV,Pronouns,45. we,82,train,14049044
+Pronouns\45. we\MVI_0079.MOV,Pronouns,45. we,82,train,16195504
+Pronouns\45. we\MVI_0080.MOV,Pronouns,45. we,82,train,16514764
+Pronouns\45. we\MVI_0081.MOV,Pronouns,45. we,82,val,17413344
+Pronouns\45. we\MVI_9901.MOV,Pronouns,45. we,82,train,10369052
+Pronouns\45. we\MVI_9902.MOV,Pronouns,45. we,82,val,11941448
+Pronouns\45. we\MVI_9903.MOV,Pronouns,45. we,82,test,11871912
+Pronouns\45. we\MVI_9904.MOV,Pronouns,45. we,82,train,12543064
+Pronouns\45. we\MVI_9940.MOV,Pronouns,45. we,82,train,16805032
+Pronouns\45. we\MVI_9941.MOV,Pronouns,45. we,82,val,18140248
+Pronouns\45. we\MVI_9942.MOV,Pronouns,45. we,82,train,17033936
+Pronouns\45. we\MVI_9943.MOV,Pronouns,45. we,82,val,19457192
+Pronouns\45. we\MVI_9972.MOV,Pronouns,45. we,82,train,11581144
+Pronouns\45. we\MVI_9973.MOV,Pronouns,45. we,82,train,9984516
+Pronouns\45. we\MVI_9974.MOV,Pronouns,45. we,82,test,10432336
+Pronouns\46. you (plural)\MVI_0021.MOV,Pronouns,46. you (plural),83,train,16977264
+Pronouns\46. you (plural)\MVI_0022.MOV,Pronouns,46. you (plural),83,train,18404240
+Pronouns\46. you (plural)\MVI_0023.MOV,Pronouns,46. you (plural),83,train,20330472
+Pronouns\46. you (plural)\MVI_0024.MOV,Pronouns,46. you (plural),83,train,16231512
+Pronouns\46. you (plural)\MVI_0030.MOV,Pronouns,46. you (plural),83,train,13793892
+Pronouns\46. you (plural)\MVI_0031.MOV,Pronouns,46. you (plural),83,train,13909824
+Pronouns\46. you (plural)\MVI_0032.MOV,Pronouns,46. you (plural),83,test,12685680
+Pronouns\46. you (plural)\MVI_0082.MOV,Pronouns,46. you (plural),83,test,15803492
+Pronouns\46. you (plural)\MVI_0083.MOV,Pronouns,46. you (plural),83,train,17630736
+Pronouns\46. you (plural)\MVI_0084.MOV,Pronouns,46. you (plural),83,train,16092048
+Pronouns\46. you (plural)\MVI_9905.MOV,Pronouns,46. you (plural),83,train,12458360
+Pronouns\46. you (plural)\MVI_9907.MOV,Pronouns,46. you (plural),83,val,11775552
+Pronouns\46. you (plural)\MVI_9908.MOV,Pronouns,46. you (plural),83,train,11417224
+Pronouns\46. you (plural)\MVI_9909.MOV,Pronouns,46. you (plural),83,val,12701436
+Pronouns\46. you (plural)\MVI_9945.MOV,Pronouns,46. you (plural),83,train,15634960
+Pronouns\46. you (plural)\MVI_9946.MOV,Pronouns,46. you (plural),83,val,18901940
+Pronouns\46. you (plural)\MVI_9947.MOV,Pronouns,46. you (plural),83,test,13826456
+Pronouns\46. you (plural)\MVI_9948.MOV,Pronouns,46. you (plural),83,train,20237944
+Pronouns\46. you (plural)\MVI_9975.MOV,Pronouns,46. you (plural),83,train,16233448
+Pronouns\46. you (plural)\MVI_9976.MOV,Pronouns,46. you (plural),83,train,16225196
+Pronouns\46. you (plural)\MVI_9977.MOV,Pronouns,46. you (plural),83,train,17667540
+Pronouns\47. they\MVI_0025.MOV,Pronouns,47. they,84,test,17163588
+Pronouns\47. they\MVI_0026.MOV,Pronouns,47. they,84,train,17581968
+Pronouns\47. they\MVI_0027.MOV,Pronouns,47. they,84,train,15935600
+Pronouns\47. they\MVI_0028.MOV,Pronouns,47. they,84,test,18000332
+Pronouns\47. they\MVI_0033.MOV,Pronouns,47. they,84,val,11805124
+Pronouns\47. they\MVI_0034.MOV,Pronouns,47. they,84,train,12347492
+Pronouns\47. they\MVI_0035.MOV,Pronouns,47. they,84,train,11630644
+Pronouns\47. they\MVI_0085.MOV,Pronouns,47. they,84,train,14999588
+Pronouns\47. they\MVI_0087.MOV,Pronouns,47. they,84,train,14631084
+Pronouns\47. they\MVI_0088.MOV,Pronouns,47. they,84,train,15677940
+Pronouns\47. they\MVI_9910.MOV,Pronouns,47. they,84,train,13364204
+Pronouns\47. they\MVI_9911.MOV,Pronouns,47. they,84,train,15717096
+Pronouns\47. they\MVI_9912.MOV,Pronouns,47. they,84,train,13995704
+Pronouns\47. they\MVI_9913.MOV,Pronouns,47. they,84,train,13826704
+Pronouns\47. they\MVI_9950.MOV,Pronouns,47. they,84,train,19161080
+Pronouns\47. they\MVI_9951.MOV,Pronouns,47. they,84,val,21860056
+Pronouns\47. they\MVI_9952.MOV,Pronouns,47. they,84,train,22288860
+Pronouns\47. they\MVI_9953.MOV,Pronouns,47. they,84,test,21054832
+Pronouns\47. they\MVI_9979.MOV,Pronouns,47. they,84,train,12479848
+Pronouns\47. they\MVI_9980.MOV,Pronouns,47. they,84,train,11997584
+Pronouns\47. they\MVI_9981.MOV,Pronouns,47. they,84,val,12221352
+Seasons\61. Summer\MVI_4565.MOV,Seasons,61. Summer,85,train,17472192
+Seasons\61. Summer\MVI_4566.MOV,Seasons,61. Summer,85,train,16931596
+Seasons\61. Summer\MVI_4567.MOV,Seasons,61. Summer,85,train,15010632
+Seasons\61. Summer\MVI_4568.MOV,Seasons,61. Summer,85,train,18108356
+Seasons\61. Summer\MVI_4990.MOV,Seasons,61. Summer,85,train,13732116
+Seasons\61. Summer\MVI_4991.MOV,Seasons,61. Summer,85,test,13314624
+Seasons\61. Summer\MVI_4992.MOV,Seasons,61. Summer,85,val,13038420
+Seasons\61. Summer\MVI_5420.MOV,Seasons,61. Summer,85,val,13999616
+Seasons\61. Summer\MVI_5421.MOV,Seasons,61. Summer,85,train,15396808
+Seasons\61. Summer\MVI_5422.MOV,Seasons,61. Summer,85,train,12614588
+Seasons\61. Summer\MVI_5424.MOV,Seasons,61. Summer,85,train,12623840
+Seasons\61. Summer\MVI_9122.MP4,Seasons,61. Summer,85,test,11321606
+Seasons\61. Summer\MVI_9123.MP4,Seasons,61. Summer,85,train,10700954
+Seasons\61. Summer\MVI_9124.MP4,Seasons,61. Summer,85,train,11225409
+Seasons\62. Spring\MVI_4569.MOV,Seasons,62. Spring,86,train,20679252
+Seasons\62. Spring\MVI_4570.MOV,Seasons,62. Spring,86,train,18302624
+Seasons\62. Spring\MVI_4571.MOV,Seasons,62. Spring,86,val,20935996
+Seasons\62. Spring\MVI_4572.MOV,Seasons,62. Spring,86,train,23066268
+Seasons\62. Spring\MVI_4993.MOV,Seasons,62. Spring,86,val,15583576
+Seasons\62. Spring\MVI_4994.MOV,Seasons,62. Spring,86,test,16261092
+Seasons\62. Spring\MVI_4995.MOV,Seasons,62. Spring,86,train,14027380
+Seasons\62. Spring\MVI_5425.MOV,Seasons,62. Spring,86,train,17885740
+Seasons\62. Spring\MVI_5426.MOV,Seasons,62. Spring,86,train,18893268
+Seasons\62. Spring\MVI_5427.MOV,Seasons,62. Spring,86,test,19040256
+Seasons\62. Spring\MVI_5428.MOV,Seasons,62. Spring,86,train,18039440
+Seasons\62. Spring\MVI_9125.MP4,Seasons,62. Spring,86,train,14093817
+Seasons\62. Spring\MVI_9126.MP4,Seasons,62. Spring,86,train,13238919
+Seasons\62. Spring\MVI_9127.MP4,Seasons,62. Spring,86,train,14173664
+Seasons\63. Winter\MVI_4573.MOV,Seasons,63. Winter,87,val,14085172
+Seasons\63. Winter\MVI_4574.MOV,Seasons,63. Winter,87,train,11288996
+Seasons\63. Winter\MVI_4575.MOV,Seasons,63. Winter,87,train,11523576
+Seasons\63. Winter\MVI_4576.MOV,Seasons,63. Winter,87,train,11681544
+Seasons\63. Winter\MVI_4996.MOV,Seasons,63. Winter,87,val,12153644
+Seasons\63. Winter\MVI_4997.MOV,Seasons,63. Winter,87,test,10986584
+Seasons\63. Winter\MVI_4998.MOV,Seasons,63. Winter,87,test,11316400
+Seasons\63. Winter\MVI_5429.MOV,Seasons,63. Winter,87,train,10874720
+Seasons\63. Winter\MVI_5430.MOV,Seasons,63. Winter,87,train,11470372
+Seasons\63. Winter\MVI_5431.MOV,Seasons,63. Winter,87,train,12088940
+Seasons\63. Winter\MVI_5432.MOV,Seasons,63. Winter,87,train,13231108
+Seasons\63. Winter\MVI_9129.MP4,Seasons,63. Winter,87,train,11336487
+Seasons\63. Winter\MVI_9130.MP4,Seasons,63. Winter,87,train,11680570
+Seasons\63. Winter\MVI_9131.MP4,Seasons,63. Winter,87,train,11452201
+Seasons\64. Fall\MVI_4577.MOV,Seasons,64. Fall,88,val,15925844
+Seasons\64. Fall\MVI_4578.MOV,Seasons,64. Fall,88,val,12636712
+Seasons\64. Fall\MVI_4579.MOV,Seasons,64. Fall,88,test,14206712
+Seasons\64. Fall\MVI_4580.MOV,Seasons,64. Fall,88,train,13211732
+Seasons\64. Fall\MVI_4999.MOV,Seasons,64. Fall,88,train,9241536
+Seasons\64. Fall\MVI_5000.MOV,Seasons,64. Fall,88,train,7966980
+Seasons\64. Fall\MVI_5001.MOV,Seasons,64. Fall,88,train,8835488
+Seasons\64. Fall\MVI_5433.MOV,Seasons,64. Fall,88,val,11900828
+Seasons\64. Fall\MVI_5434.MOV,Seasons,64. Fall,88,train,11435848
+Seasons\64. Fall\MVI_5435.MOV,Seasons,64. Fall,88,train,12797472
+Seasons\64. Fall\MVI_5436.MOV,Seasons,64. Fall,88,train,11261092
+Seasons\64. Fall\MVI_9132.MP4,Seasons,64. Fall,88,train,10357983
+Seasons\64. Fall\MVI_9133.MP4,Seasons,64. Fall,88,train,11483302
+Seasons\64. Fall\MVI_9134.MP4,Seasons,64. Fall,88,train,11487523
+Seasons\64. Fall\MVI_9135.MP4,Seasons,64. Fall,88,test,10722092
+Seasons\65. Season\MVI_4581.MOV,Seasons,65. Season,89,train,29545248
+Seasons\65. Season\MVI_4582.MOV,Seasons,65. Season,89,test,31361452
+Seasons\65. Season\MVI_4584.MOV,Seasons,65. Season,89,train,28939420
+Seasons\65. Season\MVI_4585.MOV,Seasons,65. Season,89,train,28805988
+Seasons\65. Season\MVI_5002.MOV,Seasons,65. Season,89,train,19617252
+Seasons\65. Season\MVI_5003.MOV,Seasons,65. Season,89,train,19780936
+Seasons\65. Season\MVI_5004.MOV,Seasons,65. Season,89,train,19459840
+Seasons\65. Season\MVI_5437.MOV,Seasons,65. Season,89,val,26418636
+Seasons\65. Season\MVI_5438.MOV,Seasons,65. Season,89,val,27472332
+Seasons\65. Season\MVI_5439.MOV,Seasons,65. Season,89,train,28531048
+Seasons\65. Season\MVI_5441.MOV,Seasons,65. Season,89,test,23621416
+Seasons\65. Season\MVI_9136.MP4,Seasons,65. Season,89,train,16931194
+Seasons\65. Season\MVI_9137.MP4,Seasons,65. Season,89,train,18873421
+Seasons\65. Season\MVI_9138.MP4,Seasons,65. Season,89,train,16775059
+Seasons\Ex. Monsoon\MVI_4671.MOV,Seasons,Ex. Monsoon,90,train,12624312
+Seasons\Ex. Monsoon\MVI_4672.MOV,Seasons,Ex. Monsoon,90,train,14136640
+Seasons\Ex. Monsoon\MVI_4673.MOV,Seasons,Ex. Monsoon,90,train,13474264
+Seasons\Ex. Monsoon\MVI_4674.MOV,Seasons,Ex. Monsoon,90,train,13894752
+Seasons\Ex. Monsoon\MVI_5080.MOV,Seasons,Ex. Monsoon,90,test,10365876
+Seasons\Ex. Monsoon\MVI_5081.MOV,Seasons,Ex. Monsoon,90,train,10587696
+Seasons\Ex. Monsoon\MVI_5082.MOV,Seasons,Ex. Monsoon,90,train,10900640
+Seasons\Ex. Monsoon\MVI_5528.MOV,Seasons,Ex. Monsoon,90,val,9484652
+Seasons\Ex. Monsoon\MVI_5529.MOV,Seasons,Ex. Monsoon,90,val,10332432
+Seasons\Ex. Monsoon\MVI_5530.MOV,Seasons,Ex. Monsoon,90,train,9909136
+Seasons\Ex. Monsoon\MVI_5531.MOV,Seasons,Ex. Monsoon,90,test,11720992
+Seasons\Ex. Monsoon\MVI_9205.MP4,Seasons,Ex. Monsoon,90,train,9671592
+Seasons\Ex. Monsoon\MVI_9206.MP4,Seasons,Ex. Monsoon,90,train,10397104
+Seasons\Ex. Monsoon\MVI_9207.MP4,Seasons,Ex. Monsoon,90,train,10528641

@@ -1,0 +1,369 @@
+{
+  "num_classes": 91,
+  "id_to_class": {
+    "0": {
+      "category": "Animals",
+      "class_name": "1. Dog"
+    },
+    "1": {
+      "category": "Animals",
+      "class_name": "2. Cat"
+    },
+    "2": {
+      "category": "Animals",
+      "class_name": "3. Fish"
+    },
+    "3": {
+      "category": "Animals",
+      "class_name": "4. Bird"
+    },
+    "4": {
+      "category": "Animals",
+      "class_name": "5. Cow"
+    },
+    "5": {
+      "category": "Animals",
+      "class_name": "6. Mouse"
+    },
+    "6": {
+      "category": "Animals",
+      "class_name": "7. Horse"
+    },
+    "7": {
+      "category": "Animals",
+      "class_name": "8. Animal"
+    },
+    "8": {
+      "category": "Clothes",
+      "class_name": "37. Hat"
+    },
+    "9": {
+      "category": "Clothes",
+      "class_name": "38. Dress"
+    },
+    "10": {
+      "category": "Clothes",
+      "class_name": "39. Suit"
+    },
+    "11": {
+      "category": "Clothes",
+      "class_name": "40. Skirt"
+    },
+    "12": {
+      "category": "Clothes",
+      "class_name": "41. Shirt"
+    },
+    "13": {
+      "category": "Clothes",
+      "class_name": "42. T-Shirt"
+    },
+    "14": {
+      "category": "Clothes",
+      "class_name": "43. Pant"
+    },
+    "15": {
+      "category": "Clothes",
+      "class_name": "44. Shoes"
+    },
+    "16": {
+      "category": "Clothes",
+      "class_name": "45. Pocket"
+    },
+    "17": {
+      "category": "Clothes",
+      "class_name": "46. Clothing"
+    },
+    "18": {
+      "category": "Colours",
+      "class_name": "47. Red"
+    },
+    "19": {
+      "category": "Colours",
+      "class_name": "48. Green"
+    },
+    "20": {
+      "category": "Colours",
+      "class_name": "49. Blue"
+    },
+    "21": {
+      "category": "Colours",
+      "class_name": "50. Yellow"
+    },
+    "22": {
+      "category": "Colours",
+      "class_name": "51. Brown"
+    },
+    "23": {
+      "category": "Colours",
+      "class_name": "52. Pink"
+    },
+    "24": {
+      "category": "Colours",
+      "class_name": "53. Orange"
+    },
+    "25": {
+      "category": "Colours",
+      "class_name": "54. Black"
+    },
+    "26": {
+      "category": "Colours",
+      "class_name": "55. White"
+    },
+    "27": {
+      "category": "Colours",
+      "class_name": "56. Grey"
+    },
+    "28": {
+      "category": "Colours",
+      "class_name": "57. Colour"
+    },
+    "29": {
+      "category": "Days_and_Time",
+      "class_name": "66. Sunday"
+    },
+    "30": {
+      "category": "Days_and_Time",
+      "class_name": "67. Monday"
+    },
+    "31": {
+      "category": "Days_and_Time",
+      "class_name": "68. Tuesday"
+    },
+    "32": {
+      "category": "Days_and_Time",
+      "class_name": "69. Wednesday"
+    },
+    "33": {
+      "category": "Days_and_Time",
+      "class_name": "70. Thursday"
+    },
+    "34": {
+      "category": "Days_and_Time",
+      "class_name": "71. Friday"
+    },
+    "35": {
+      "category": "Days_and_Time",
+      "class_name": "72. Saturday"
+    },
+    "36": {
+      "category": "Days_and_Time",
+      "class_name": "73. Today"
+    },
+    "37": {
+      "category": "Electronics",
+      "class_name": "51. Clock"
+    },
+    "38": {
+      "category": "Electronics",
+      "class_name": "52. Lamp"
+    },
+    "39": {
+      "category": "Electronics",
+      "class_name": "53. Fan"
+    },
+    "40": {
+      "category": "Electronics",
+      "class_name": "54. Cell phone"
+    },
+    "41": {
+      "category": "Electronics",
+      "class_name": "55. Computer"
+    },
+    "42": {
+      "category": "Electronics",
+      "class_name": "56. Laptop"
+    },
+    "43": {
+      "category": "Electronics",
+      "class_name": "57. Screen"
+    },
+    "44": {
+      "category": "Electronics",
+      "class_name": "58. Camera"
+    },
+    "45": {
+      "category": "Electronics",
+      "class_name": "59. Television"
+    },
+    "46": {
+      "category": "Electronics",
+      "class_name": "60. Radio"
+    },
+    "47": {
+      "category": "Greetings",
+      "class_name": "48. Hello"
+    },
+    "48": {
+      "category": "Greetings",
+      "class_name": "49. How are you"
+    },
+    "49": {
+      "category": "Greetings",
+      "class_name": "50. Alright"
+    },
+    "50": {
+      "category": "Greetings",
+      "class_name": "51. Good Morning"
+    },
+    "51": {
+      "category": "Greetings",
+      "class_name": "52. Good afternoon"
+    },
+    "52": {
+      "category": "Greetings",
+      "class_name": "53. Good evening"
+    },
+    "53": {
+      "category": "Greetings",
+      "class_name": "54. Good night"
+    },
+    "54": {
+      "category": "Greetings",
+      "class_name": "55. Thank you"
+    },
+    "55": {
+      "category": "Greetings",
+      "class_name": "56. Pleased"
+    },
+    "56": {
+      "category": "Home",
+      "class_name": "24. Table"
+    },
+    "57": {
+      "category": "Home",
+      "class_name": "25. Chair"
+    },
+    "58": {
+      "category": "Home",
+      "class_name": "26. Bed"
+    },
+    "59": {
+      "category": "Home",
+      "class_name": "27. Dream"
+    },
+    "60": {
+      "category": "Home",
+      "class_name": "28. Window"
+    },
+    "61": {
+      "category": "Home",
+      "class_name": "29. Door"
+    },
+    "62": {
+      "category": "Home",
+      "class_name": "30. Bedroom"
+    },
+    "63": {
+      "category": "Means_of_Transportation",
+      "class_name": "10. Plane"
+    },
+    "64": {
+      "category": "Means_of_Transportation",
+      "class_name": "11. Car"
+    },
+    "65": {
+      "category": "Means_of_Transportation",
+      "class_name": "12. Truck"
+    },
+    "66": {
+      "category": "Means_of_Transportation",
+      "class_name": "13. Bicycle"
+    },
+    "67": {
+      "category": "Means_of_Transportation",
+      "class_name": "14. Bus"
+    },
+    "68": {
+      "category": "Means_of_Transportation",
+      "class_name": "15. Boat"
+    },
+    "69": {
+      "category": "Means_of_Transportation",
+      "class_name": "16. train ticket"
+    },
+    "70": {
+      "category": "Means_of_Transportation",
+      "class_name": "17. Transportation"
+    },
+    "71": {
+      "category": "Means_of_Transportation",
+      "class_name": "9. Train"
+    },
+    "72": {
+      "category": "Places",
+      "class_name": "18. City"
+    },
+    "73": {
+      "category": "Places",
+      "class_name": "19. House"
+    },
+    "74": {
+      "category": "Places",
+      "class_name": "20. Street or Road"
+    },
+    "75": {
+      "category": "Places",
+      "class_name": "21. Train Station"
+    },
+    "76": {
+      "category": "Places",
+      "class_name": "22. Restaurant"
+    },
+    "77": {
+      "category": "Pronouns",
+      "class_name": "40. I"
+    },
+    "78": {
+      "category": "Pronouns",
+      "class_name": "41. you"
+    },
+    "79": {
+      "category": "Pronouns",
+      "class_name": "42. he"
+    },
+    "80": {
+      "category": "Pronouns",
+      "class_name": "43. she"
+    },
+    "81": {
+      "category": "Pronouns",
+      "class_name": "44. it"
+    },
+    "82": {
+      "category": "Pronouns",
+      "class_name": "45. we"
+    },
+    "83": {
+      "category": "Pronouns",
+      "class_name": "46. you (plural)"
+    },
+    "84": {
+      "category": "Pronouns",
+      "class_name": "47. they"
+    },
+    "85": {
+      "category": "Seasons",
+      "class_name": "61. Summer"
+    },
+    "86": {
+      "category": "Seasons",
+      "class_name": "62. Spring"
+    },
+    "87": {
+      "category": "Seasons",
+      "class_name": "63. Winter"
+    },
+    "88": {
+      "category": "Seasons",
+      "class_name": "64. Fall"
+    },
+    "89": {
+      "category": "Seasons",
+      "class_name": "65. Season"
+    },
+    "90": {
+      "category": "Seasons",
+      "class_name": "Ex. Monsoon"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿.\.venv\Scripts\python.exe : 2026-11-12 17:15:04.392467: I tensorflow/core/util/port.cc:153] oneDNN custom operations 
+are on. You may see slightly different numerical results due to floating-point round-off errors from different 
+computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+At line:15 char:2053
++ ... M = 'dumb'; .\.venv\Scripts\python.exe -u app.py > server_run.log 2>& ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-11-12 17:1...ONEDNN_OPTS=0`.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-11-12 17:15:06.846094: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly 
+different numerical results due to floating-point round-off errors from different computation orders. To turn them 
+off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Translation / speech backends: {'translator': 'deep-translator (fallback)', 'speech': 'gTTS (fallback)'}
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit

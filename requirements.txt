@@ -1,0 +1,19 @@
+# --- Core CV / ML ---
+opencv-python-headless
+mediapipe
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# --- Model training ---
+tensorflow-cpu
+
+# --- Web app ---
+flask
+python-dotenv
+
+# --- Translation & speech (Azure primary, free fallback) ---
+requests
+deep-translator
+gTTS
